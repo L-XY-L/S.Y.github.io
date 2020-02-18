@@ -6,11 +6,11 @@
 
 ### About me
 
-name:         Jun Li
-             （李俊）
-education:    undergraduate
-major:        communication engineering
-school:       WanLi university
+##name:         Jun Li
+##             （李俊）
+##education:    undergraduate
+##major:        communication engineering
+##school:       WanLi university
 
 
 # Header 1
@@ -23,9 +23,9 @@ school:       WanLi university
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold**
 
-[Link](url) and ![Image](src)
+
 ```
 
 
