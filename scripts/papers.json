@@ -1,0 +1,2867 @@
+[
+{
+"authors":"Weikeng Chen and Raluca Ada Popa",
+"id":"2020/083",
+"title":"Metal: A Metadata-Hiding File-Sharing System"
+},
+{
+"authors":"Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa",
+"id":"2020/050",
+"title":"Delphi: A Cryptographic Inference Service for Neural Networks"
+},
+{
+"authors":"Arpita Patra and Ajith Suresh",
+"id":"2020/042",
+"title":"BLAZE: Blazing Fast Privacy-Preserving Machine Learning"
+},
+{
+"authors":"Seung Geol Choi and Dana Dachman-Soled and Mukul Kulkarni and Arkady Yerukhimovich",
+"id":"2020/029",
+"title":"Differentially-Private Multi-Party Sketching for Large-Scale Statistics"
+},
+{
+"authors":"Hao Chen and Wei Dai and Miran Kim and Yongsoo Song",
+"id":"2020/015",
+"title":"Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts"
+},
+{
+"authors":"Joon-Woo Lee and Young-Sik Kim and Jong-Seon No",
+"id":"2019/1497",
+"title":"Analysis of Modified Shell Sort for Fully Homomorphic Encryption"
+},
+{
+"authors":"Asra Ali and Tancr\u00e8de Lepoint and Sarvar Patel and Mariana Raykova and Phillipp Schoppmann and Karn Seth and Kevin Yeo",
+"id":"2019/1483",
+"title":"Communication--Computation Trade-offs in PIR"
+},
+{
+"authors":"Sigurd Eskeland",
+"id":"2019/1462",
+"title":"Privacy-preserving greater-than integer comparison without binary decomposition"
+},
+{
+"authors":"David Butler and David Aspinall and Adria Gascon",
+"id":"2019/1449",
+"title":"Formalising Oblivious Transfer in the Semi-Honest and Malicious Model in CryptHOL"
+},
+{
+"authors":"Claude Carlet and Pierrick M\u00e9aux",
+"id":"2019/1446",
+"title":"Boolean functions for homomorphic-friendly stream ciphers"
+},
+{
+"authors":"Vincent HERBERT",
+"id":"2019/1402",
+"title":"Automatize parameter tuning in Ring-Learning-With-Errors-based leveled homomorphic cryptosystem implementations"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof",
+"id":"2019/1390",
+"title":"Practical Fully Secure Three-Party Computation via Sublinear Distributed Zero-Knowledge Proofs"
+},
+{
+"authors":"Megha Byali and Harsh Chaudhari and Arpita Patra and Ajith Suresh",
+"id":"2019/1365",
+"title":"FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning"
+},
+{
+"authors":"Ward Beullens and Tim Beyne and Aleksei Udovenko and Giuseppe Vitto",
+"id":"2019/1357",
+"title":"Cryptanalysis of the Legendre PRF and generalizations"
+},
+{
+"authors":"Bowen Liu and Qiang Tang",
+"id":"2019/1346",
+"title":"Privacy-Preserving Decentralised Singular Value Decomposition"
+},
+{
+"authors":"Ran Cohen and Iftach Haitner and Eran Omri and Lior Rotem",
+"id":"2019/1344",
+"title":"From Fairness to Full Security in Multiparty Computation"
+},
+{
+"authors":"Andrew Morgan and Rafael Pass and Antigoni Polychroniadou",
+"id":"2019/1341",
+"title":"Succinct Non-Interactive Secure Computation"
+},
+{
+"authors":"Melissa Chase and Esha Ghosh and Oxana Poburinnaya",
+"id":"2019/1340",
+"title":"Secret Shared Shuffle"
+},
+{
+"authors":"Phi Hung Le and Samuel Ranellucci and S. Dov Gordon",
+"id":"2019/1338",
+"title":"Two-party Private Set Intersection with an Untrusted Third Party"
+},
+{
+"authors":"Ye Dong and Xiaojun Chen and Liyan Shen",
+"id":"2019/1334",
+"title":"Privacy-Preserving Distributed Machine Learning based on Secret Sharing"
+},
+{
+"authors":"Samiran Bag and  Feng Hao and Siamak F. Shahandashti and Indranil G. Ray",
+"id":"2019/1332",
+"title":"SEAL: Sealed-Bid Auction Without Auctioneers"
+},
+{
+"authors":"Alisa Cherniaeva and Ilia Shirobokov and Omer Shlomovits",
+"id":"2019/1320",
+"title":"Homomorphic Encryption Random Beacon"
+},
+{
+"authors":"Suvradip Chakraborty and Stefan Dziembowski and Jesper Buus Nielsen",
+"id":"2019/1317",
+"title":"Reverse Firewalls for Actively Secure MPCs"
+},
+{
+"authors":"Rahul Rachuri and Ajith Suresh",
+"id":"2019/1315",
+"title":"Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Rindal and Peter Scholl",
+"id":"2019/1159",
+"title":"Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation"
+},
+{
+"authors":"Payman Mohassel and Mike Rosulek and Ni Trieu",
+"id":"2019/1158",
+"title":"Practical Privacy-Preserving K-means Clustering"
+},
+{
+"authors":"Oliver Masters and Hamish Hunt and Enrico Steffinlongo and Jack Crawford and Flavio Bergamaschi",
+"id":"2019/1113",
+"title":"Towards a Homomorphic Machine Learning Big Data Pipeline for the Financial Services Sector"
+},
+{
+"authors":"Kasper Green Larsen and Mark Simkin and Kevin Yeo",
+"id":"2019/1108",
+"title":"Lower Bounds for Multi-Server Oblivious RAMs"
+},
+{
+"authors":"Lorenzo Grassi and Reinhard L\u00fcftenegger and Christian Rechberger and Dragos Rotaru and Markus Schofnegger",
+"id":"2019/1107",
+"title":"On a Generalization of Substitution-Permutation Networks: The HADES Design Strategy"
+},
+{
+"authors":"Kang Yang and Xiao Wang and Jiang Zhang",
+"id":"2019/1104",
+"title":"More Efficient MPC from Improved Triple Generation and Authenticated Garbling"
+},
+{
+"authors":"Eleftheria Makri and Tim Wood ",
+"id":"2019/1098",
+"title":"Full-Threshold Actively-Secure Multiparty Arithmetic Circuit Garbling"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai",
+"id":"2019/1095",
+"title":"Secure Computation with Preprocessing via Function Secret Sharing"
+},
+{
+"authors":"Marshall Ball and Elette Boyle and Ran Cohen and Tal Malkin and Tal Moran",
+"id":"2019/1094",
+"title":"Is Information-Theoretic Topology-Hiding Computation Possible?"
+},
+{
+"authors":"Arpita Patra and Divya Ravi",
+"id":"2019/998",
+"title":"Beyond Honest Majority: The Round Complexity of Fair and Robust Multi-party Computation"
+},
+{
+"authors":"Shyam Murthy and Srinivas Vivek",
+"id":"2019/1087",
+"title":"Cryptanalysis of a Protocol for Efficient Sorting on SHE Encrypted Data "
+},
+{
+"authors":"Phillipp Schoppmann and Adri\u00e0 Gasc\u00f3n and Leonie Reichert and Mariana Raykova",
+"id":"2019/1084",
+"title":"Distributed Vector-OLE: Improved Constructions and Implementation"
+},
+{
+"authors":"Hyang-Sook Lee and Jeongeun Park",
+"id":"2019/1082",
+"title":"On the Security of Multikey Homomorphic Encryption"
+},
+{
+"authors":"Kai-Min Chung; Luowen Qian",
+"id":"2019/1077",
+"title":"Adaptively Secure Garbling Schemes for Parallel Computations"
+},
+{
+"authors":"Yoshiki Abe and Mitsugu Iwamoto and Kazuo Ohta",
+"id":"2019/1069",
+"title":"Efficient Private PEZ Protocols for Symmetric Functions"
+},
+{
+"authors":"M. Sadegh Riazi and Kim Laine and Blake Pelton and Wei Dai",
+"id":"2019/1066",
+"title":"HEAX: High-Performance Architecture for Computation on Homomorphically Encrypted Data in the Cloud"
+},
+{
+"authors":"Nishant Kumar and Mayank Rathee and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma",
+"id":"2019/1049",
+"title":"CrypTFlow: Secure TensorFlow Inference"
+},
+{
+"authors":"Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Nikolaos Makriyannis and Tal Rabin",
+"id":"2019/1032",
+"title":"On Fully Secure MPC with Solitary Output "
+},
+{
+"authors":"Dor Bitan and Shlomi Dolev",
+"id":"2019/1024",
+"title":"Optimal-Round Preprocessing-MPC via Polynomial Representation and Distributed Random Matrix (extended abstract)"
+},
+{
+"authors":"Dor Bitan and Shlomi Dolev",
+"id":"2019/1023",
+"title":"Randomly Rotate Qubits Compute and Reverse --- IT-Secure Non-Interactive Fully-Compact Homomorphic Quantum Computations over Classical Data Using Random Bases"
+},
+{
+"authors":"David W. Archer and Jose Manuel Calderon Trilla and Jason Dagit and Alex J. Malozemoff and Yuriy Polyakov and Kurt Rohloff and Gerard Ryan",
+"id":"2019/988",
+"title":"RAMPARTS: A Programmer-Friendly System for Building Homomorphic Encryption Applications"
+},
+{
+"authors":"Kalikinkar Mandal and Guang Gong",
+"id":"2019/979",
+"title":"PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks"
+},
+{
+"authors":"Martin Zuber and Sergiu Carpov and Renaud Sirdey",
+"id":"2019/976",
+"title":"Towards real-time hidden speaker recognition by means of fully homomorphic encryption"
+},
+{
+"authors":"Abdelrahaman Aly and Emmanuela Orsini and Drago Rotaru and Nigel P. Smart and Tim Wood",
+"id":"2019/974",
+"title":"Zaphod: Efficiently Combing LSSS and Garbled Circuits in SCALE"
+},
+{
+"authors":"Pascal Aubry and Sergiu Carpov and Renaud Sirdey",
+"id":"2019/963",
+"title":"Faster homomorphic encryption is not enough: improved heuristic for multiplicative depth minimization of Boolean circuits"
+},
+{
+"authors":"Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux",
+"id":"2019/961",
+"title":"Computing across Trust Boundaries using Distributed Homomorphic Cryptography"
+},
+{
+"authors":"Nigel P. Smart and Titouan Tanguy",
+"id":"2019/957",
+"title":"TaaS: Commodity MPC via Triples-as-a-Service"
+},
+{
+"authors":"Xavier Bonnetain",
+"id":"2019/951",
+"title":"Collisions on Feistel-MiMC and univariate GMiMC"
+},
+{
+"authors":"Fabian Boemer and Anamaria Costache and Rosario Cammarota and Casimir Wierzynski ",
+"id":"2019/947",
+"title":"nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data"
+},
+{
+"authors":"Martin Albrecht and Melissa Chase and Hao Chen and Jintai Ding and Shafi Goldwasser and Sergey Gorbunov and Shai Halevi and Jeffrey Hoffstein and Kim Laine and Kristin Lauter and Satya Lokam and Daniele Micciancio and Dustin Moody and Travis Morrison and Amit Sahai and Vinod Vaikuntanathan ",
+"id":"2019/939",
+"title":"Homomorphic Encryption Standard"
+},
+{
+"authors":"Karim Eldefrawy and Vitor Pereira",
+"id":"2019/922",
+"title":"A High-Assurance, Automatically-Synthesized, Evaluator for Machine-Checked (Proactively) Secure Multi-Party Computation"
+},
+{
+"authors":"Anders Dalskov and Marcel Keller and Claudio Orlandi and Kris Shrishak and Haya Shulman",
+"id":"2019/889",
+"title":"Securing DNSSEC Keys via Threshold ECDSA From Generic MPC"
+},
+{
+"authors":"Donghang Lu and Thomas Yurek and Samarth Kulshreshtha and Rahul Govind and Rahul Mahadev and Aniket Kate and Andrew Miller",
+"id":"2019/883",
+"title":"HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication"
+},
+{
+"authors":"Mark Abspoel and Ronald Cramer and Ivan Damg\u00e5rd and Daniel Escudero and Chen Yuan",
+"id":"2019/872",
+"title":"Efficient Information-Theoretic Secure Multiparty Computation over $\\mathbb{Z}/p^k \\mathbb{Z}$ via Galois Rings"
+},
+{
+"authors":"Megha Byali and Carmit Hazay and Arpita Patra and Swati Singla",
+"id":"2019/863",
+"title":"Fast Actively Secure Five-Party Computation with Security Beyond Abort"
+},
+{
+"authors":"Dmitry Khovratovich",
+"id":"2019/862",
+"title":"Key recovery attacks on the Legendre PRFs within the birthday bound"
+},
+{
+"authors":"Markus Brandt and Claudio Orlandi and Kris Shrishak and Haya Shulman",
+"id":"2019/836",
+"title":"Optimizing Transport Layer for Secure Computation"
+},
+{
+"authors":"Ronald Cramer and Matthieu Rambaud and Chaoping Xing",
+"id":"2019/832",
+"title":"Asymptotically-Good Arithmetic Secret Sharing over Z/(p^\\ell Z) with Strong Multiplication and Its Applications to Efficient MPC"
+},
+{
+"authors":"Jeffrey Champion and abhi shelat and Jonathan Ullman",
+"id":"2019/823",
+"title":"Securely Sampling Biased Coins with Applications to Differential Privacy"
+},
+{
+"authors":"Asma Aloufi and Peizhao Hu and Hang Liu and Sherman S. M. Chow",
+"id":"2019/820",
+"title":"Universal Location Referencing and Homomorphic Evaluation of Geospatial Query"
+},
+{
+"authors":"Asma Aloufi and Peizhao Hu and Harry W. H. Wong and Sherman S. M. Chow",
+"id":"2019/819",
+"title":"Blindfolded Evaluation of Random Forests with Multi-Key Homomorphic Encryption"
+},
+{
+"authors":"Vladimir Kolesnikov and Mike Rosulek and Ni Trieu and Xiao Wang",
+"id":"2019/776",
+"title":"Scalable Private Set Union from Symmetric-Key Techniques "
+},
+{
+"authors":"Frank Blom and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede",
+"id":"2019/773",
+"title":"Efficient Secure Ridge Regression from Randomized Gaussian Elimination"
+},
+{
+"authors":"Nigel P. Smart and Younes Talibi Alaoui",
+"id":"2019/768",
+"title":"Distributing any Elliptic Curve Based Protocol: With an Application to MixNets"
+},
+{
+"authors":"Martine De Cock and Rafael Dowsley and Anderson C. A. Nascimento and Devin Reich and Ariel Todoki",
+"id":"2019/744",
+"title":"Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Ling Ren",
+"id":"2019/736",
+"title":"Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE"
+},
+{
+"authors":"Lucy Qin and Andrei Lapets and Frederick Jansen and Peter Flockhart and Kinan Dak Albab and Ira Globus-Harris and Shannon Roberts and Mayank Varia",
+"id":"2019/734",
+"title":"From Usability to Secure Computing and Back Again"
+},
+{
+"authors":"Craig Gentry and Shai Halevi",
+"id":"2019/733",
+"title":"Compressible FHE with Applications to PIR"
+},
+{
+"authors":"Mihaela Ion and Ben Kreuter and Ahmet Erhan Nergiz and Sarvar Patel and Mariana Raykova and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung",
+"id":"2019/723",
+"title":"On Deploying Secure Computing Commercially: Private Intersection-Sum Protocols and their Business Applications"
+},
+{
+"authors":"Zvika Brakerski and Nico D\u00f6ttling and Sanjam Garg and Giulio Malavolta ",
+"id":"2019/720",
+"title":"Leveraging Linear Decryption: Rate-1 Fully-Homomorphic Encryption and Time-Lock Puzzles"
+},
+{
+"authors":"Marina Blanton and Ahreum Kang and Chen Yuan",
+"id":"2019/718",
+"title":"Improved Building Blocks for Secure Multi-Party Computation based on Secret Sharing with Honest Majority"
+},
+{
+"authors":"Davood Rezaeipour",
+"id":"2019/709",
+"title":"Secure Computation for Cloud data Storage"
+},
+{
+"authors":"Daniel Masny and Peter Rindal",
+"id":"2019/706",
+"title":"Endemic Oblivious Transfer"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Helene Haagh and Michael Nielsen and Claudio Orlandi",
+"id":"2019/705",
+"title":"Commodity-Based 2PC for Arithmetic Circuits"
+},
+{
+"authors":"Koji Chida and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Naoto Kiribuchi and Benny Pinkas",
+"id":"2019/695",
+"title":"An Efficient Secure Three-Party Sorting Protocol with an Honest Majority"
+},
+{
+"authors":"Kyoohyung Han and Dohyeong Ki",
+"id":"2019/688",
+"title":"Better Bootstrapping for Approximate Homomorphic Encryption"
+},
+{
+"authors":"Mingjia Huo and Kewen Wu and Qi Ye",
+"id":"2019/677",
+"title":"A Note on Lower Digits Extraction Polynomial for Bootstrapping"
+},
+{
+"authors":"Jun Furukawa and Yehuda Lindell",
+"id":"2019/658",
+"title":"Two-Thirds Honest-Majority MPC for Malicious Adversaries at Almost the Cost of Semi-Honest"
+},
+{
+"authors":"Leonard Assouline and Tianren Liu",
+"id":"2019/657",
+"title":"Multi-Party PSM, Revisited"
+},
+{
+"authors":"Muhammad Ishaq and Ana Milanova and Vassilis Zikas",
+"id":"2019/651",
+"title":"Efficient MPC via Program Analysis: A Framework for Efficient Optimal Mixing"
+},
+{
+"authors":"Vipul Goyal and Yanyi Liu and Yifan Song",
+"id":"2019/646",
+"title":"Communication-Efficient Unconditional MPC with Guaranteed Output Delivery"
+},
+{
+"authors":"Benny Pinkas and Mike Rosulek and Ni Trieu and Avishay Yanai",
+"id":"2019/634",
+"title":"SpOT-Light: Lightweight Private Set Intersection from Sparse OT Extension"
+},
+{
+"authors":"Ariel Hamlin and Justin Holmgren and Mor Weiss and Daniel Wichs",
+"id":"2019/632",
+"title":"On the Plausibility of Fully Homomorphic Encryption for RAMs"
+},
+{
+"authors":"Andrej Bogdanov and Yuval Ishai and Akshayaram Srinivasan",
+"id":"2019/627",
+"title":"Unconditionally Secure Computation Against Low-Complexity Leakage"
+},
+{
+"authors":"Iftach Haitner and Noam Mazor and Ronen Shaltiel and Jad Silbak",
+"id":"2019/616",
+"title":"Channels of Small Log-Ratio Leakage and Characterization of Two-Party Differentially Private Computation"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Daniel Escudero and Tore Frederiksen and Marcel Keller and Peter Scholl and Nikolaj Volgushev",
+"id":"2019/599",
+"title":"New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning"
+},
+{
+"authors":"Christina Boura and Nicolas Gama and Mariya Georgieva and Dimitar Jetchev",
+"id":"2019/591",
+"title":"Simulating Homomorphic Evaluation of Deep Learning Predictions"
+},
+{
+"authors":"Deevashwer Rathee and Thomas Schneider and K. K. Shukla",
+"id":"2019/577",
+"title":"Improved Multiplication Triple Generation over Rings via SHE"
+},
+{
+"authors":"Zhizhu Lian and Yupu Hu and Hu Chen and  Baocang Wang",
+"id":"2019/561",
+"title":"Faster Bootstrapping of FHE over the integers with large prime message space"
+},
+{
+"authors":"Hao Chen and Wei Dai and Miran Kim and Yongsoo Song",
+"id":"2019/524",
+"title":"Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference"
+},
+{
+"authors":"Jack Doerner and Yashvanth Kondi and Eysa Lee and abhi shelat",
+"id":"2019/523",
+"title":"Threshold ECDSA from ECDSA Assumptions: The Multiparty Case"
+},
+{
+"authors":"Benjamin M. Case and Shuhong Gao and Gengran Hu and Qiuxia Xu",
+"id":"2019/521",
+"title":"Fully Homomorphic Encryption with k-bit Arithmetic Operations"
+},
+{
+"authors":"Payman Mohassel and Peter Rindal and Mike Rosulek",
+"id":"2019/518",
+"title":"Fast Database Joins for Secret Shared Data"
+},
+{
+"authors":"Daniel Kales and Christian Rechberger and Thomas Schneider and Matthias Senker and Christian Weinert",
+"id":"2019/517",
+"title":"Mobile Private Contact Discovery at Scale"
+},
+{
+"authors":"Guilhem Castagnos and Dario Catalano and  Fabien Laguillaumie and Federico Savasta and Ida Tucker",
+"id":"2019/503",
+"title":"Two-Party ECDSA from Hash Proof Systems and Efficient Instantiations"
+},
+{
+"authors":"Jean-Claude Bajard and Julien Eynard and Paulo Martins and Leonel Sousa and Vincent Zucca",
+"id":"2019/500",
+"title":"An HPR variant of the FV scheme: Computationally Cheaper, Asymptotically Faster"
+},
+{
+"authors":"Anamaria Costache and Kim Laine and Rachel Player",
+"id":"2019/493",
+"title":"Homomorphic noise growth in practice: comparing BGV and FV"
+},
+{
+"authors":"Pierrick M\u00e9aux and Claude Carlet and Anthony Journault and Fran\u00e7ois-Xavier Standaert",
+"id":"2019/483",
+"title":"Improved Filter Permutators: Combining Symmetric Encryption Design, Boolean Functions, Low Complexity Cryptography, and Homomorphic Encryption, for Private Delegation of Computations"
+},
+{
+"authors":"Niek J. Bouman and Niels de Vreede",
+"id":"2019/470",
+"title":"A Practical Approach to the Secure Computation of the Moore-Penrose Pseudoinverse over the Rationals"
+},
+{
+"authors":"Jung Hee Cheon and Jinhyuck Jeong and Dohyeong Ki and Jiseung Kim and Joohee Lee and Seok Won Lee",
+"id":"2019/466",
+"title":"Privacy-Preserving K-means Clustering with Multiple Data Owners"
+},
+{
+"authors":"Jung Hee Cheon and Duhyeong Kim and Jai Hyun Park",
+"id":"2019/465",
+"title":"Towards a Practical Clustering Analysis over Encrypted Data"
+},
+{
+"authors":"Ryan Karl and Timothy Burchfield and Jonathan Takeshita and Taeho Jung",
+"id":"2019/454",
+"title":"Non-Interactive MPC with Trusted Hardware Secure Against Residual Function Attacks"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Scholl",
+"id":"2019/448",
+"title":"Efficient Pseudorandom Correlation Generators: Silent OT Extension and More"
+},
+{
+"authors":"Thijs Veugen",
+"id":"2019/437",
+"title":"Efficient coding for secure computing with additively-homomorphic encrypted data"
+},
+{
+"authors":"Harsh Chaudhari and Arpita Patra and Ajith Suresh",
+"id":"2019/429",
+"title":"ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction"
+},
+{
+"authors":"Florian Bourse and Olivier Sanders and Jacques Traor\u00e9",
+"id":"2019/427",
+"title":"Improved Secure Integer Comparison via Homomorphic Encryption"
+},
+{
+"authors":"Abdelrahaman Aly and Tomer Ashur and Eli Ben-Sasson and Siemen Dhooghe and Alan Szepieniec",
+"id":"2019/426",
+"title":"Efficient Symmetric Primitives for Advanced Cryptographic Protocols (A Marvellous Contribution)"
+},
+{
+"authors":"Flavio Bergamaschi and Shai Halevi and Tzipora T. Halevi and Hamish Hunt",
+"id":"2019/425",
+"title":"Homomorphic Training of 30,000 Logistic Regression Models"
+},
+{
+"authors":"Martin R. Albrecht and Carlos Cid and Lorenzo Grassi and Dmitry Khovratovich and Reinhard L\u00fcftenegger and Christian Rechberger and Markus Schofnegger",
+"id":"2019/419",
+"title":"Algebraic Cryptanalysis of STARK-Friendly Designs: Application to MARVELlous and MiMC"
+},
+{
+"authors":"Jung Hee Cheon and Dongwoo Kim and Duhyeong Kim and Hun Hee Lee and Keewoo Lee",
+"id":"2019/417",
+"title":"Numerical Methods for Comparison on Homomorphically Encrypted Numbers"
+},
+{
+"authors":"Nico Dottling and Sanjam Garg and Mohammad Hajiabadi and Daniel Masny and Daniel Wichs",
+"id":"2019/414",
+"title":"Two-Round Oblivious Transfer from CDH or LPN"
+},
+{
+"authors":"Martin R. Albrecht and Lorenzo Grassi and Le&#769;o Perrin and Sebastian Ramacher and Christian Rechberger and Dragos Rotaru and Arnab Roy and Markus Schofnegger",
+"id":"2019/397",
+"title":"Feistel Structures for MPC, and More "
+},
+{
+"authors":"Ryo Kikuchi and Nuttapong Attrapadung and Koki Hamada and Dai Ikarashi and Ai Ishida and Takahiro Matsuda and Yusuke Sakai and Jacob C. N. Schuldt",
+"id":"2019/386",
+"title":"Field Extension in Secret-Shared Form and Its Applications to Efficient Secure Computation"
+},
+{
+"authors":"Sarvar Patel and Giuseppe Persiano and Kevin Yeo",
+"id":"2019/384",
+"title":"What Storage Access Privacy is Achievable with Small Overhead?"
+},
+{
+"authors":"Kazumasa Shinagawa and Koji Nuida",
+"id":"2019/380",
+"title":"A Single Shuffle Is Enough for Secure Card-Based Computation of Any Circuit"
+},
+{
+"authors":"Kasper Green Larsen and Tal Malkin and Omri Weinstein and Kevin Yeo",
+"id":"2019/377",
+"title":"Lower Bounds for Oblivious Near-Neighbor Search"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Yihe Dong and Oxana Poburinnaya and Ilya Razenshteyn and M. Sadegh Riazi",
+"id":"2019/359",
+"title":"SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search"
+},
+{
+"authors":"Abdelrahaman Aly and Nigel P. Smart",
+"id":"2019/354",
+"title":"Benchmarking Privacy Preserving Scientific Operations"
+},
+{
+"authors":"Fabian Boemer and Yixing Lao and Rosario Cammarota and Casimir Wierzynski",
+"id":"2019/350",
+"title":"nGraph-HE: A Graph Compiler for Deep Learning on Homomorphically Encrypted Data"
+},
+{
+"authors":"Masaud Y. Alhassan and Daniel G\u00fcnther and \u00c1gnes Kiss and Thomas Schneider",
+"id":"2019/348",
+"title":"Efficient and Scalable Universal Circuits"
+},
+{
+"authors":"Marshall Ball and Brent Carmer and Tal Malkin and Mike Rosulek and Nichole Shimanski",
+"id":"2019/338",
+"title":"Garbled Neural Networks are Practical"
+},
+{
+"authors":"Abdelrahaman Aly and Aysajan Abidin and Svetla Nikova ",
+"id":"2019/334",
+"title":"Practically Efficient Secure Distributed Exponentiation without Bit-Decomposition"
+},
+{
+"authors":"Benjamin Hong Meng Tan and Hyung Tae Lee and Huaxiong Wang and Shu Qin Ren and Khin Mi Mi Aung",
+"id":"2019/332",
+"title":"Efficient Private Comparison Queries over Encrypted Databases using Fully Homomorphic Encryption with Finite Fields"
+},
+{
+"authors":"Peter T. Breuer and Simon Pickin",
+"id":"2019/301",
+"title":"Safe Compilation for Encrypted Computing"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Yongsoo Song",
+"id":"2019/116",
+"title":"Multi-Key Homomophic Encryption from TFHE"
+},
+{
+"authors":"Hiroki Sudo and Koji Nuida and Kana Shimizu",
+"id":"2019/325",
+"title":"An Efficient Private Evaluation of a Decision Graph"
+},
+{
+"authors":"Kimia Tajik and Akshith Gunasekaran and Rhea Dutta and Brandon Ellis and Rakesh B. Bobba and Mike Rosulek and Charles V. Wright and Wu-chi Feng",
+"id":"2019/295",
+"title":"Balancing Image Privacy and Usability with Thumbnail-Preserving Encryption"
+},
+{
+"authors":"Miran Kim and Yongsoo Song and Baiyu Li and Daniele Micciancio",
+"id":"2019/294",
+"title":"Semi-parallel Logistic Regression for GWAS on Encrypted Data"
+},
+{
+"authors":"Phillipp Schoppmann and Adria Gascon and Mariana Raykova and Benny Pinkas",
+"id":"2019/281",
+"title":"Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning"
+},
+{
+"authors":"Navneet Agarwal and Sanat Anand and Manoj Prabhakaran",
+"id":"2019/278",
+"title":"Uncovering Algebraic Structures in the MPC Landscape"
+},
+{
+"authors":"Erik-Oliver Blass and Florian Kerschbaum",
+"id":"2019/276",
+"title":"Secure Computation of the $k^\\text{th}$-ranked Integer on Blockchains"
+},
+{
+"authors":"M. Sadegh Riazi and Mojan Javaheripi and Siam U. Hussain and Farinaz Koushanfar",
+"id":"2019/275",
+"title":"MPCircuits: Optimized Circuit Generation for Secure Multi-Party Computation"
+},
+{
+"authors":"Elaine Shi",
+"id":"2019/274",
+"title":"Path Oblivious Heap"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai",
+"id":"2019/273",
+"title":"Compressing Vector OLE"
+},
+{
+"authors":"Benny Applebaum and Amos Beimel and Oriol Farr\u00e0s and Oded Nir and Naty Peter",
+"id":"2019/231",
+"title":"Secret-Sharing Schemes for General and Uniform Access Structures"
+},
+{
+"authors":"Marcelo Blatt and Alexander Gusev and Yuriy Polyakov and Kurt Rohloff and Vinod Vaikuntanathan",
+"id":"2019/223",
+"title":"Optimized Homomorphic Encryption Solution for Secure Genome-Wide Association Studies"
+},
+{
+"authors":"Antoine Joux",
+"id":"2019/187",
+"title":"Fully homomorphic encryption modulo Fermat numbers"
+},
+{
+"authors":"Sujoy Sinha Roy and Furkan Turan and Kimmo Jarvinen and Frederik Vercauteren and Ingrid Verbauwhede",
+"id":"2019/160",
+"title":"FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data"
+},
+{
+"authors":"Chen-Da Liu-Zhang and Julian Loss and Ueli Maurer and Tal Moran and Daniel Tschudi",
+"id":"2019/159",
+"title":"Robust MPC: Asynchronous Responsiveness yet Synchronous Security"
+},
+{
+"authors":"Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain",
+"id":"2019/253",
+"title":"Founding Secure Computation on Blockchains"
+},
+{
+"authors":"Benny Pinkas and Thomas Schneider and Oleksandr Tkachenko and Avishay Yanai",
+"id":"2019/241",
+"title":"Efficient Circuit-based PSI with Linear Communication"
+},
+{
+"authors":"Adam Groce and Peter Rindal and Mike Rosulek",
+"id":"2019/239",
+"title":"Cheaper Private Set Intersection via Differentially Private Leakage"
+},
+{
+"authors":"Zahra Jafargholi and Kasper Green Larsen and Mark Simkin",
+"id":"2019/237",
+"title":"Optimal Oblivious Priority Queues and Offline Oblivious RAM"
+},
+{
+"authors":"Dorit Aharonov and Zvika Brakerski and Kai-Min Chung and Ayal Green and Ching-Yi Lai and Or Sattath",
+"id":"2019/232",
+"title":"Logarithmic Quantum Single-Server PIR is Sometimes Possible"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Kasper Green Larsen and Jesper Buus Nielsen",
+"id":"2019/220",
+"title":"Communication Lower Bounds for Statistically Secure MPC, with or without Preprocessing"
+},
+{
+"authors":"Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain",
+"id":"2019/216",
+"title":"On Round Optimal Secure Multiparty Computation from Minimal Assumptions"
+},
+{
+"authors":"Michele Ciampi and Rafail Ostrovsky",
+"id":"2019/214",
+"title":"Four-Round Secure Multiparty Computation from General Assumptions"
+},
+{
+"authors":"Dario Catalano and Mario Di Raimondo and Dario Fiore and Irene Giacomelli",
+"id":"2019/211",
+"title":"Mon$\\mathbb{Z}_{2^k}$a: Fast Maliciously Secure Two Party Computation on $\\mathbb{Z}_{2^k}$"
+},
+{
+"authors":"Dragos Rotaru and Tim Wood",
+"id":"2019/207",
+"title":"MArBled Circuits: Mixing Arithmetic and Boolean Circuits with Active Security"
+},
+{
+"authors":"Benny Applebaum and Zvika Brakerski and Rotem Tsabary",
+"id":"2019/200",
+"title":"Degree 2 is Complete for the Round-Complexity of Malicious MPC"
+},
+{
+"authors":"Dan Boneh and Elette Boyle and Henry Corrigan-Gibbs and Niv Gilboa and Yuval Ishai",
+"id":"2019/188",
+"title":"How to Prove a Secret: Zero-Knowledge Proofs on Distributed Data via Fully Linear PCPs"
+},
+{
+"authors":"Nicholas Genise and Craig Gentry and Shai Halevi and Baiyu Li and Daniele Micciancio",
+"id":"2019/176",
+"title":"Homomorphic Encryption for Finite Automata"
+},
+{
+"authors":"Satrajit Ghosh and Mark Simkin",
+"id":"2019/175",
+"title":"The Communication Complexity of Threshold Private Set Intersection"
+},
+{
+"authors":"M. Sadegh Riazi and Mohammad Samragh and Hao Chen and Kim Laine and Kristin Lauter and Farinaz Koushanfar",
+"id":"2019/171",
+"title":"XONN: XNOR-based Oblivious Deep Neural Network Inference"
+},
+{
+"authors":"Hendrik Eerikson and Claudio Orlandi and Pille Pullonen and Joonas Puura and Mark Simkin",
+"id":"2019/164",
+"title":"Use your Brain! Arithmetic 3PC For Any Modulus with Active Security"
+},
+{
+"authors":"Siddhartha Jayanti and Srinivasan Raghuraman and Nikhil Vyas",
+"id":"2019/156",
+"title":"Efficient Constructions for Almost-everywhere Secure Computation"
+},
+{
+"authors":"Emmanuela Orsini and Nigel P. Smart and Frederik Vercauteren",
+"id":"2019/153",
+"title":"Overdrive2k: Efficient Secure MPC over $Z_{2^k}$ from Somewhat Homomorphic Encryption"
+},
+{
+"authors":"Duhyeong Kim and Yongha Son and Dongwoo Kim and Andrey Kim and Seungwan Hong and Jung Hee Cheon",
+"id":"2019/152",
+"title":"Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption"
+},
+{
+"authors":"Jun Jie Sim and Fook Mun Chan and Shibin Chen and Benjamin Hong Meng Tan and Khin Mi Mi Aung",
+"id":"2019/145",
+"title":"Achieving GWAS with Homomorphic Encryption"
+},
+{
+"authors":"Jinhyun So and Basak Guler and A. Salman Avestimehr and Payman Mohassel",
+"id":"2019/140",
+"title":"CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning"
+},
+{
+"authors":"Assi Barak and Daniel Escudero and Anders Dalskov and Marcel Keller",
+"id":"2019/131",
+"title":"Secure Evaluation of Quantized Neural Networks"
+},
+{
+"authors":"Elette Boyle and Lisa Kohl and Peter Scholl",
+"id":"2019/129",
+"title":"Homomorphic Secret Sharing from Lattices Without FHE"
+},
+{
+"authors":"Ahmet Can Mert and Erdinc Ozturk and Erkay Savas",
+"id":"2019/109",
+"title":"Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture"
+},
+{
+"authors":"Sergiu Carpov and Nicolas Gama and Mariya Georgieva and Juan Ramon Troncoso-Pastoriza",
+"id":"2019/101",
+"title":"Privacy-preserving semi-parallel logistic regression training with Fully Homomorphic Encryption"
+},
+{
+"authors":"Li Hongda and Pan Dongxue and Ni Peifang",
+"id":"2019/091",
+"title":"Efficient Zero-Knowledge for NP from Secure Two-Party Computation"
+},
+{
+"authors":"Nils Fleischhacker and Giulio Malavolta and Dominique Schr\u00f6der",
+"id":"2019/082",
+"title":"Arithmetic Garbling from Bilinear Maps"
+},
+{
+"authors":"Aner Ben Efraim and Eran Omri",
+"id":"2019/080",
+"title":"Turbospeedz: Double Your Online SPDZ! Improving SPDZ using Function Dependent Preprocessing"
+},
+{
+"authors":"Chun Guo and Jonathan Katz and Xiao Wang and Yu Yu",
+"id":"2019/074",
+"title":"Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers"
+},
+{
+"authors":"Zhilin Zhang and Ke Wang and Weipeng Lin and Ada Wai-Chee Fu and Raymond Chi-Wing Wong",
+"id":"2019/071",
+"title":"Repeatable Oblivious Shuffling of Large Outsourced Data Blocks"
+},
+{
+"authors":"Michael Clear and Ciaran McGoldrick",
+"id":"2019/062",
+"title":"Additively Homomorphic IBE from Higher Residuosity"
+},
+{
+"authors":"Rafael del Pino and Vadim Lyubashevsky and Gregor Seiler",
+"id":"2019/057",
+"title":"Short Discrete Log Proofs for FHE and Ring-LWE Ciphertexts"
+},
+{
+"authors":"Eyal Kushilevitz and Tamer Mour",
+"id":"2019/048",
+"title":"Sub-logarithmic Distributed Oblivious RAM with Small Block Size"
+},
+{
+"authors":"Daniele Cozzo and Nigel P. Smart",
+"id":"2019/035",
+"title":"Using TopGear in Overdrive: A more efficient ZKPoK for SPDZ"
+},
+{
+"authors":"NingBo Li and TanPing Zhou and XiaoYuan Yang and YiLiang Han and Longfei Liu and WenChao Liu",
+"id":"2018/1249",
+"title":"Two round multiparty computation via Multi-key fully homomorphic encryption with faster homomorphic evaluations"
+},
+{
+"authors":"Jung Hee Cheon and Andrey Kim and Donggeon Yhee ",
+"id":"2018/1245",
+"title":"Multi-dimensional Packing for HEAAN for Approximate Matrix Arithmetics"
+},
+{
+"authors":"Mark Abspoel and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede",
+"id":"2018/1236",
+"title":"Fast Secure Comparison for Medium-Sized Integers and Its Application in Binarized Neural Networks"
+},
+{
+"authors":"Adi Akavia and Craig Gentry and Shai Halevi and Max Leibovich",
+"id":"2018/1235",
+"title":"Setup-Free Secure Search on Encrypted Data: Faster and Post-Processing Free"
+},
+{
+"authors":"Marina Blanton and Chen Yuan",
+"id":"2018/1228",
+"title":"Multi-Party Oblivious RAM based on Function Secret Sharing and Replicated Secret Sharing Arithmetic"
+},
+{
+"authors":"Louis Cianciullo and Hossein Ghodosi ",
+"id":"2018/1227",
+"title":"Efficient Information Theoretic Multi-Party Computation from Oblivious Linear Evaluation"
+},
+{
+"authors":"Dan Boneh and Yuval Ishai and Alain Passel\\`egue and Amit Sahai and David J. Wu",
+"id":"2018/1218",
+"title":"Exploring Crypto Dark Matter: New Simple PRF Candidates and Their Applications"
+},
+{
+"authors":"Min Liang",
+"id":"2018/1209",
+"title":"Teleportation-based quantum homomorphic encryption scheme with quasi-compactness and perfect security"
+},
+{
+"authors":"Derek Zhang and Alex Su and Felix Xu and Jiang Chen",
+"id":"2018/1206",
+"title":"ARPA Whitepaper"
+},
+{
+"authors":"Chenglu Jin and Marten van Dijk and Michael Reiter and Haibin Zhang",
+"id":"2018/1171",
+"title":"PwoP: Intrusion-Tolerant and Privacy-Preserving Sensor Fusion"
+},
+{
+"authors":"Ran Cohen and abhi shelat and Daniel Wichs",
+"id":"2018/1161",
+"title":"Adaptively Secure MPC with Sublinear Communication Complexity"
+},
+{
+"authors":"Eunkyung Kim and Hyang-Sook Lee and Jeongeun Park",
+"id":"2018/1156",
+"title":"Towards Round-Optimal Secure Multiparty Computations: Multikey FHE without a CRS"
+},
+{
+"authors":"Akshayaram Srinivasan and Prashant Nalini Vasudevan",
+"id":"2018/1154",
+"title":"Leakage Resilient Secret Sharing and Applications"
+},
+{
+"authors":"Fenghua Li and Hui Li and Ben Niu and Jinjun Chen",
+"id":"2018/1145",
+"title":"Privacy Computing: Concept, Computing Framework And Future Development Trends"
+},
+{
+"authors":"Cheng Hong and Jonathan Katz and Vladimir Kolesnikov and Wen-jie Lu and Xiao Wang",
+"id":"2018/1108",
+"title":"Covert Security with Public Verifiability: Faster, Leaner, and Simpler"
+},
+{
+"authors":"Thijs Veugen",
+"id":"2018/1100",
+"title":"Correction to \"Improving the DGK comparison protocol\""
+},
+{
+"authors":"\u00c1gnes Kiss and Masoud Naderpour and Jian Liu and N. Asokan and Thomas Schneider",
+"id":"2018/1099",
+"title":"SoK: Modular and Efficient Private Decision Tree Evaluation"
+},
+{
+"authors":"Alexandr Andoni and Tal Malkin and Negev Shekel Nosatzki",
+"id":"2018/1086",
+"title":"Two Party Distribution Testing: Communication and Security"
+},
+{
+"authors":"Prabhanjan Ananth and Arka Rai Choudhuri and Aarushi Goel and Abhishek Jain",
+"id":"2018/1078",
+"title":"Two Round Information-Theoretic MPC with Malicious Security"
+},
+{
+"authors":"Jung Hee Cheon and Kyoohyung Han and Minki Hhan",
+"id":"2018/1073",
+"title":"Faster Homomorphic Discrete Fourier Transforms and Improved FHE Bootstrapping"
+},
+{
+"authors":"Kwak Wi Song and Kim Chol Un",
+"id":"2018/1070",
+"title":"A New Batch FHE Scheme over the Integers"
+},
+{
+"authors":"Russell W. F. Lai and Giulio Malavolta and Dominique Schr\u00f6der ",
+"id":"2018/1065",
+"title":"Homomorphic Secret Sharing for Low Degree Polynomials"
+},
+{
+"authors":"Ahmad Al Badawi and Jin Chao and Jie Lin and Chan Fook Mun and Sim Jun Jie and Benjamin Hong Meng Tan and Xiao Nan and Khin Mi Mi Aung and Vijay Ramaseshan Chandrasekhar",
+"id":"2018/1056",
+"title":"The AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data with GPUs"
+},
+{
+"authors":"Tanping Zhou and Ningbo Li and Xiaoyuan Yang and Yiliang Han and Wenchao Liu",
+"id":"2018/1054",
+"title":"Efficient Multi-key FHE with short extended ciphertexts and less public parameters"
+},
+{
+"authors":"Giuseppe Persiano and Kevin Yeo",
+"id":"2018/1051",
+"title":"Lower Bounds for Differentially Private RAMs"
+},
+{
+"authors":"John Cartlidge and Nigel P. Smart and  Younes Talibi Alaoui",
+"id":"2018/1045",
+"title":"MPC Joins the Dark Side"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Yongsoo Song",
+"id":"2018/1043",
+"title":"Improved Bootstrapping for Approximate Homomorphic Encryption"
+},
+{
+"authors":"Xiaoqian Jiang and Miran Kim and Kristin Lauter and Yongsoo Song",
+"id":"2018/1041",
+"title":"Secure Outsourced Matrix Computation and Application to Neural Networks"
+},
+{
+"authors":"Michael Kraitsberg and Yehuda Lindell and Valery Osheter and Younes Talibi Alaoui",
+"id":"2018/1034",
+"title":"Adding Distributed Decryption and Key Generation to a Ring-LWE Based CCA Encryption Scheme"
+},
+{
+"authors":"Diego Chialva and Ann Dooms",
+"id":"2018/1032",
+"title":"Conditionals in Homomorphic Encryption and Machine Learning Applications"
+},
+{
+"authors":"Yanan Bai and Jingwei Chen and Yong Feng and Wenyuan Wu",
+"id":"2018/1025",
+"title":"Integer Matrices Homomorphic Encryption and Its application"
+},
+{
+"authors":"Liang Wang and Gilad Asharov and Rafael Pass and Thomas Ristenpart and abhi shelat",
+"id":"2018/1022",
+"title":"Blind Certificate Authorities"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Abhishek Jain and Rafail Ostrovsky and Ivan Visconti",
+"id":"2018/1020",
+"title":"Non-Interactive Secure Computation from One-Way Functions"
+},
+{
+"authors":"Chlo\u00e9 H\u00e9bant and Duong Hieu Phan and David Pointcheval",
+"id":"2018/1019",
+"title":"Decentralized Evaluation of Quadratic Polynomials on Encrypted Data"
+},
+{
+"authors":"Eduardo Chielle and Oleg Mazonka and Nektarios Georgios Tsoutsos and Michail Maniatakos",
+"id":"2018/1013",
+"title":"E$^3$: A Framework for Compiling C++ Programs with Encrypted Operands"
+},
+{
+"authors":"Aggelos Kiayias and Murat Osmanoglu and Alexander Russell and Qiang Tang",
+"id":"2018/1010",
+"title":"Space Efficient Computational Multi-Secret Sharing and Its  Applications"
+},
+{
+"authors":"Yehuda Lindell and Ariel Nof and Samuel Ranellucci",
+"id":"2018/1006",
+"title":"Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody"
+},
+{
+"authors":"Adi Akavia and Dan Feldman and Hayim Shaul",
+"id":"2018/1003",
+"title":"Secure Data Retrieval On The Cloud Homomorphic Encryption Meets Coresets"
+},
+{
+"authors":"Leonid Reyzin and Adam Smith and Sophia Yakoubov",
+"id":"2018/997",
+"title":"Turning HATE Into LOVE: Homomorphic Ad Hoc Threshold Encryption for Scalable MPC"
+},
+{
+"authors":"Yehuda Lindell and Ariel Nof and Samuel Ranellucci",
+"id":"2018/987",
+"title":"Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody"
+},
+{
+"authors":"Ignacio Cascudo and Ivan Damg\u00e5rd and Bernardo David and Nico D\u00f6ttling and Rafael Dowsley and Irene Giacomelli",
+"id":"2018/983",
+"title":"Efficient UC Commitment Extension with Homomorphism for Free (and Applications)"
+},
+{
+"authors":"Duhyeong Kim and Yongsoo Song",
+"id":"2018/952",
+"title":"Approximate Homomorphic Encryption over the Conjugate-invariant Ring"
+},
+{
+"authors":"Shuoyao Zhao and Yu Yu and Jiang Zhang and Hanlin Liu",
+"id":"2018/943",
+"title":"Valiant's Universal Circuits Revisited: an Overall Improvement and a Lower Bound"
+},
+{
+"authors":"Carsten Baum and Bernardo David and Rafael Dowsley",
+"id":"2018/942",
+"title":"Insured MPC: Efficient Secure Multiparty Computation with Punishable Abort"
+},
+{
+"authors":"Melissa Chase and Yevgeniy Dodis and Yuval Ishai and Daniel Kraschewski and Tianren Liu and Rafail Ostrovsky and Vinod Vaikuntanathan",
+"id":"2018/940",
+"title":"Reusable Non-Interactive Secure Computation"
+},
+{
+"authors":"Jung Hee Cheon and Kyoohyung Han and Andrey Kim and Miran Kim and Yongsoo Song",
+"id":"2018/931",
+"title":"A Full RNS Variant of Approximate Homomorphic Encryption"
+},
+{
+"authors":"Beno\u00eet Libert and Damien Stehl\u00e9 and Radu Titiu",
+"id":"2018/927",
+"title":"Adaptively Secure Distributed PRFs from LWE"
+},
+{
+"authors":"Dakshita Khurana and Rafail Ostrovsky and Akshayaram Srinivasan",
+"id":"2018/921",
+"title":"Round Optimal Black-Box \"Commit-and-Prove\""
+},
+{
+"authors":"Alex Sangers and Maran van Heesch and Thomas Attema and Thijs Veugen and Mark Wiggerman and Jan Veldsink and Oscar Bloemen and Dani\\\"el Worm",
+"id":"2018/917",
+"title":"Secure multiparty PageRank algorithm for collaborative fraud detection"
+},
+{
+"authors":"Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Tal Rabin",
+"id":"2018/913",
+"title":"Best Possible Information-Theoretic MPC"
+},
+{
+"authors":"Sanjam Garg and Yuval Ishai and Akshayaram Srinivasan",
+"id":"2018/909",
+"title":"Two-Round MPC: Information-Theoretic and Black-Box"
+},
+{
+"authors":"Benny Applebaum and Zvika Brakerski and Rotem Tsabary",
+"id":"2018/894",
+"title":"Perfect Secure Computation in Two Rounds"
+},
+{
+"authors":"Gilad Asharov and Ilan Komargodski and Wei-Kai Lin and Kartik Nayak and Elaine Shi",
+"id":"2018/892",
+"title":"OptORAMa: Optimal Oblivious RAM"
+},
+{
+"authors":"Varun Narayanan and Vinod M. Prabahakaran",
+"id":"2018/875",
+"title":"Oblivious Transfer in Incomplete Networks"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Rex Fernando and Venkata Koppula and Amit Sahai and Brent Waters",
+"id":"2018/866",
+"title":"Output Compression, MPC, and iO for Turing Machines"
+},
+{
+"authors":"T-H. Hubert Chan and Jonathan Katz and Kartik Nayak and Antigoni Polychroniadou and Elaine Shi",
+"id":"2018/851",
+"title":"More is Less: Perfectly Secure Oblivious Algorithms in the Multi-Server Setting"
+},
+{
+"authors":"Carmit Hazay and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez",
+"id":"2018/843",
+"title":"Concretely Efficient Large-Scale MPC with Active Security (or, TinyKeys for TinyOT)"
+},
+{
+"authors":"S\u00e9bastien Canard and David Pointcheval and Quentin Santos and Jacques Traor\u00e9",
+"id":"2018/827",
+"title":"Practical Strategy-Resistant Privacy-Preserving Elections"
+},
+{
+"authors":"Deevashwer Rathee and Pradeep Kumar Mishra and Masaya Yasuda",
+"id":"2018/801",
+"title":"Faster PCA and Linear Regression through Hypercubes in HElib"
+},
+{
+"authors":"Louis Goubin and Francisco Vial-Prado",
+"id":"2018/794",
+"title":"Blending FHE-NTRU keys \u2013 The Excalibur Property"
+},
+{
+"authors":"Vladimir Kolesnikov",
+"id":"2018/789",
+"title":"Free IF: How to Omit Inactive Branches and Implement S-Universal Garbled Circuit (Almost) for Free"
+},
+{
+"authors":"Hao Chen and Zhicong Huang and Kim Laine and Peter Rindal",
+"id":"2018/787",
+"title":"Labeled PSI from Fully Homomorphic Encryption with Malicious Security"
+},
+{
+"authors":"Carl Bootland and Wouter Castryck and Ilia Iliashenko and Frederik Vercauteren",
+"id":"2018/785",
+"title":"Efficiently Processing Complex-Valued Data in Homomorphic Encryption"
+},
+{
+"authors":"Itai Dinur",
+"id":"2018/772",
+"title":"Linear Equivalence of Block Ciphers with Partial Non-Linear Layers: Application to LowMC"
+},
+{
+"authors":"Toshinori Araki and Assi Barak and Jun Furukawa and Marcel Keller and Yehuda Lindell and Kazuma Ohara and Hikaru Tsuchida",
+"id":"2018/762",
+"title":"Generalizing the SPDZ Compiler For Other Protocols"
+},
+{
+"authors":"Prabhanjan Ananth and Alex Lombardi",
+"id":"2018/759",
+"title":"Succinct Garbling Schemes from Functional Encryption through a Local Simulation Paradigm"
+},
+{
+"authors":"Christina Boura and Nicolas Gama and Mariya Georgieva",
+"id":"2018/758",
+"title":"Chimera: a unified framework for B/FV, TFHE and HEAAN fully homomorphic encryption and predictions for deep learning"
+},
+{
+"authors":"Assi Barak and Martin Hirt and Lior Koskas and Yehuda Lindell",
+"id":"2018/751",
+"title":"An End-to-End System for Large Scale P2P MPC-as-a-Service and Low-Bandwidth MPC for Weak Participants"
+},
+{
+"authors":"Leon J. Helsloot and Gamze Tillem and Zekeriya Erkin",
+"id":"2018/744",
+"title":"BAdASS: Preserving Privacy in Behavioural Advertising with Applied Secret Sharing"
+},
+{
+"authors":"Aur\u00e9lien Dupin and David Pointcheval and Christophe Bidan",
+"id":"2018/743",
+"title":"On the Leakage of Corrupted Garbled Circuits"
+},
+{
+"authors":"Marina Blanton and Myoungin Jeong",
+"id":"2018/736",
+"title":"Improved Signature Schemes for Secure Multi-Party Computation with Certified Inputs"
+},
+{
+"authors":"Lijing Zhou and Licheng Wang and Yiru Sun and Tianyi Ai",
+"id":"2018/735",
+"title":"BeeHive: Double Non-interactive Secure Multi-party Computation"
+},
+{
+"authors":"Stanislaw Jarecki and Hugo Krawczyk and Jason Resch",
+"id":"2018/733",
+"title":"Threshold Partially-Oblivious PRFs with Applications to Key Management"
+},
+{
+"authors":"Avradip Mandal and John C. Mitchell and Hart Montgomery and Arnab Roy",
+"id":"2018/732",
+"title":"Data Oblivious Genome Variants Search on Intel SGX"
+},
+{
+"authors":"Itai Dinur and Nathan Keller and Ohad Klein",
+"id":"2018/731",
+"title":"An Optimal Distributed Discrete Log Protocol with Applications to Homomorphic Secret Sharing"
+},
+{
+"authors":"Shashank Agrawal and Payman Mohassel and Pratyay Mukherjee and Peter Rindal",
+"id":"2018/727",
+"title":"DiSE: Distributed Symmetric-key Encryption"
+},
+{
+"authors":"Megha Byali and Arun Joseph and Arpita Patra and Divya Ravi",
+"id":"2018/710",
+"title":"Fast Secure Computation for Small Population over the Internet"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai",
+"id":"2018/707",
+"title":"Function Secret Sharing: Improvements and Extensions"
+},
+{
+"authors":"Paul Bunn and Jonathan Katz and Eyal Kushilevitz and Rafail Ostrovsky",
+"id":"2018/706",
+"title":"Efficient 3-Party Distributed ORAM"
+},
+{
+"authors":"Niek J. Bouman and Niels de Vreede",
+"id":"2018/703",
+"title":"New Protocols for Secure Linear Algebra: Pivoting-Free Elimination and Fast Block-Recursive Matrix Decomposition"
+},
+{
+"authors":"Jonathan Frankle and Sunoo Park and Daniel Shaar and Shafi Goldwasser and Daniel J. Weitzner",
+"id":"2018/697",
+"title":"Practical Accountability of Secret Processes"
+},
+{
+"authors":"Kimmo J\u00e4rvinen and \u00c1gnes Kiss and Thomas Schneider and Oleksandr Tkachenko and Zheng Yang",
+"id":"2018/694",
+"title":"Faster Privacy-Preserving Location Proximity Schemes"
+},
+{
+"authors":"Jia-Si Weng and Jian Weng and Ming Li and Yue Zhang and Weiqi Luo",
+"id":"2018/679",
+"title":"DeepChain: Auditable and Privacy-Preserving Deep Learning with Blockchain-based Incentive"
+},
+{
+"authors":"Pradeep Kumar Mishra and Deevashwer Rathee and Dung Hoang Duong and Masaya Yasuda",
+"id":"2018/663",
+"title":"Fast Secure Matrix Multiplications over Ring-Based Homomorphic Encryption"
+},
+{
+"authors":"Kyoohyung Han and Seungwan Hong and Jung Hee Cheon and Daejun Park",
+"id":"2018/662",
+"title":"Efficient Logistic Regression on Large Encrypted Data"
+},
+{
+"authors":"Pierre-Alain Fouque and Benjamin Hadjibeyli and Paul Kirchner",
+"id":"2018/653",
+"title":"Homomorphic Evaluation of Lattice-Based Symmetric Encryption Schemes"
+},
+{
+"authors":"Lucas Schabh\u00fcser and Denis Butin and Denise Demirel and Johanens Buchmann",
+"id":"2018/639",
+"title":"Function-Dependent Commitments for Verifiable Multi-Party Computation"
+},
+{
+"authors":"Shuhong Gao",
+"id":"2018/637",
+"title":"Efficient Fully Homomorphic Encryption Scheme"
+},
+{
+"authors":"Sergiu Carpov and Oana Stan",
+"id":"2018/626",
+"title":"Efficient Evaluation of Low Degree Multivariate Polynomials in Ring-LWE Homomorphic Encryption Schemes"
+},
+{
+"authors":"Sergiu Carpov and Malika Izabach\u00e8ne and Victor Mollimard",
+"id":"2018/622",
+"title":"New techniques for multi-value homomorphic evaluation and applications"
+},
+{
+"authors":"Mor Weiss and Daniel Wichs",
+"id":"2018/619",
+"title":"Is there an Oblivious RAM Lower Bound for Online Reads?"
+},
+{
+"authors":"Ahmad Al Badawi and Yuriy Polyakov and Khin Mi Mi Aung and Bharadwaj Veeravalli and Kurt Rohloff",
+"id":"2018/589",
+"title":"Implementation and Performance Evaluation of RNS Variants of the BFV Homomorphic Encryption Scheme"
+},
+{
+"authors":"Mugurel Barcau and Vicentiu Pasol",
+"id":"2018/584",
+"title":"Bounded Fully Homomorphic Encryption from Monoid Algebras"
+},
+{
+"authors":"Mugurel Barcau and Vicentiu Pasol",
+"id":"2018/583",
+"title":"Ring Homomorphic Encryption Schemes"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Aayush Jain and Nathan Manohar and Amit Sahai",
+"id":"2018/580",
+"title":"Secure MPC: Laziness Leads to GOD"
+},
+{
+"authors":"Daniel Demmler and Peter Rindal and Mike Rosulek and Ni Trieu",
+"id":"2018/579",
+"title":"PIR-PSI: Scaling Private Contact Discovery"
+},
+{
+"authors":"Jonathan Katz and Samuel Ranellucci and Mike Rosulek and Xiao Wang",
+"id":"2018/578",
+"title":"Optimizing Authenticated Garbling for Faster Secure Two-Party Computation"
+},
+{
+"authors":"Tore Kasper Frederiksen and Yehuda Lindell and Valery Osheter and Benny Pinkas",
+"id":"2018/577",
+"title":"Fast Distributed RSA Key Generation for Semi-Honest and Malicious Adversaries"
+},
+{
+"authors":"Prabhanjan Ananth and Arka Rai Choudhuri and Aarushi Goel and Abhishek Jain",
+"id":"2018/572",
+"title":"Round-Optimal Secure Multiparty Computation with Honest Majority"
+},
+{
+"authors":"Elette Boyle and Yuval Ishai and Antigoni Polychroniadou",
+"id":"2018/571",
+"title":"Limits of Practical Sublinear Secure Computation"
+},
+{
+"authors":"Koji Chida and Daniel Genkin and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Yehuda Lindell and Ariel Nof",
+"id":"2018/570",
+"title":"Fast Large-Scale Honest-Majority MPC for Malicious Adversaries"
+},
+{
+"authors":"Jung Hee Cheon and Andrey Kim",
+"id":"2018/565",
+"title":"Homomorphic Encryption for Approximate Matrix Arithmetic"
+},
+{
+"authors":"Sanjam Garg and Rafail Ostrovsky and Akshayaram Srinivasan",
+"id":"2018/549",
+"title":"Adaptive Garbled RAM from Laconic Oblivious Transfer"
+},
+{
+"authors":"Elette Boyle and Ran Cohen and Deepesh Data and Pavel Hubacek",
+"id":"2018/540",
+"title":"Must the Communication Graph of MPC Protocols be an Expander?"
+},
+{
+"authors":"Daniele Micciancio and Jessica Sorrell",
+"id":"2018/532",
+"title":"Ring packing and amortized FHEW bootstrapping"
+},
+{
+"authors":"Aur\u00e9lien Dupin and Jean-Marc Robert and Christophe Bidan",
+"id":"2018/525",
+"title":"Location-Proof System based on Secure Multi-Party Computations"
+},
+{
+"authors":"Osman Bicer and Muhammed Ali Bingol and Mehmet Sabir Kiraz",
+"id":"2018/515",
+"title":"Highly Efficient and Reusable Private Function Evaluation with Linear Complexity"
+},
+{
+"authors":"Ran Gelles and Anat Paskin-Cherniavsky and Vassilis Zikas",
+"id":"2018/506",
+"title":"Secure Two-Party Computation over Unreliable Channels"
+},
+{
+"authors":"Helene Haagh and Aleksandr Karbyshev and Sabine Oechsner and Bas Spitters and Pierre-Yves Strub",
+"id":"2018/502",
+"title":"Computer-aided proofs for multiparty computation with active security"
+},
+{
+"authors":"Jack Doerner and Yashvanth Kondi and Eysa Lee and abhi shelat",
+"id":"2018/499",
+"title":"Secure Two-party Threshold ECDSA from ECDSA Assumptions"
+},
+{
+"authors":"Aydin Abadi and Sotirios Terzis and Roberto Metere and Changyu Dong",
+"id":"2018/496",
+"title":"Efficient Delegated Private Set Intersection on Outsourced Private Datasets"
+},
+{
+"authors":"Changyu Dong and Grigorios Loukides",
+"id":"2018/495",
+"title":"Approximating Private Set Union/Intersection Cardinality with Logarithmic Complexity"
+},
+{
+"authors":"Ghada Dessouky and Farinaz Koushanfar and Ahmad-Reza Sadeghi and Thomas Schneider and Shaza Zeitouni and Michael Zohner",
+"id":"2018/486",
+"title":"Pushing the Communication Barrier in Secure Computation using Lookup Tables"
+},
+{
+"authors":"Ronald Cramer and Ivan Damg\u00e5rd and Daniel Escudero and Peter Scholl and Chaoping Xing",
+"id":"2018/482",
+"title":"SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority"
+},
+{
+"authors":"Arpita Patra and Divya Ravi",
+"id":"2018/481",
+"title":"On the Exact Round Complexity of Secure Three-Party Computation"
+},
+{
+"authors":"Peter Sebastian Nordholt and Meilof Veeningen",
+"id":"2018/474",
+"title":"Minimising Communication in Honest-Majority MPC by Batchwise Multiplication Verification"
+},
+{
+"authors":"Daniele Friolo and Daniel Masny and Daniele Venturi",
+"id":"2018/473",
+"title":"Secure Multi-Party Computation from Strongly Uniform Key Agreement"
+},
+{
+"authors":"Anrin Chakraborti and Adam J. Aviv and Seung Geol Choi and Travis Mayberry and Daniel S. Roche and Radu Sion",
+"id":"2018/471",
+"title":"Efficient Range ORAM with $\\mathbb{O}(\\log^{2}{N})$ Locality"
+},
+{
+"authors":"Thomas Agrikola and Geoffroy Couteau and Dennis Hofheinz",
+"id":"2018/470",
+"title":"The Usefulness of Sparsifiable Inputs: How to Avoid Subexponential iO"
+},
+{
+"authors":"Nigel P. Smart and Tim Wood",
+"id":"2018/467",
+"title":"Error-Detecting in Monotone Span Programs with Application to Communication Efficient Multi-Party Computation"
+},
+{
+"authors":"Geoffroy Couteau",
+"id":"2018/465",
+"title":"A Note on the Communication Complexity of Multiparty Computation in the Correlated Randomness Model"
+},
+{
+"authors":"Hao Chen and Ran Gilad-Bachrach and Kyoohyung Han and Zhicong Huang and Amir Jalali and Kim Laine and Kristin Lauter",
+"id":"2018/462",
+"title":"Logistic regression over encrypted data from fully homomorphic encryption"
+},
+{
+"authors":"Prabhanjan Ananth and Saikrishna Badrinarayanan and Aayush Jain and Nathan Manohar and Amit Sahai",
+"id":"2018/457",
+"title":"From FE Combiners to Secure MPC and Back"
+},
+{
+"authors":"David W. Archer and Dan Bogdanov and Y. Lindell and Liina Kamm and Kurt Nielsen and Jakob Illeborg Pagter and Nigel P. Smart and Rebecca N. Wright",
+"id":"2018/450",
+"title":"From Keys to Databases -- Real-World Applications of Secure Multi-Party Computation"
+},
+{
+"authors":"Bing Zeng",
+"id":"2018/444",
+"title":"Founding Cryptography on Smooth Projective Hashing"
+},
+{
+"authors":"Rishab Goyal",
+"id":"2018/443",
+"title":"Quantum Multi-Key Homomorphic Encryption for Polynomial-Sized Circuits"
+},
+{
+"authors":"Sameer Wagh and Divya Gupta and Nishanth Chandran",
+"id":"2018/442",
+"title":"SecureNN: Efficient and Private Neural Network Training"
+},
+{
+"authors":"Ignacio Cascudo and Ronald Cramer and Chaoping Xing and Chen Yuan",
+"id":"2018/429",
+"title":"Amortized Complexity of Information-Theoretically Secure MPC Revisited"
+},
+{
+"authors":"Kasper Green Larsen and Jesper Buus Nielsen",
+"id":"2018/423",
+"title":"Yes, There is an Oblivious RAM Lower Bound!"
+},
+{
+"authors":"Ilaria Chillotti and Nicolas Gama and Mariya Georgieva and Malika Izabach\u00e8ne",
+"id":"2018/421",
+"title":"TFHE: Fast Fully Homomorphic Encryption over the Torus"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Michele Orr\u00f9",
+"id":"2018/419",
+"title":"Homomorphic Secret Sharing: Optimizations and Applications"
+},
+{
+"authors":"Angela J\u00e4schke and Frederik Armknecht",
+"id":"2018/411",
+"title":"Unsupervised Machine Learning on Encrypted Data"
+},
+{
+"authors":"Willy Quach and Hoeteck Wee and Daniel Wichs",
+"id":"2018/409",
+"title":"Laconic Function Evaluation and Applications"
+},
+{
+"authors":"Jos\u00e9 Bacelar Almeida and Manuel Barbosa and Gilles Barthe and Hugo Pacheco and Vitor Pereira and Bernardo Portela",
+"id":"2018/404",
+"title":"Enforcing ideal-world leakage bounds in real-world secret sharing MPC frameworks"
+},
+{
+"authors":"Payman Mohassel and Peter Rindal",
+"id":"2018/403",
+"title":"ABY3: A Mixed Protocol Framework for Machine Learning"
+},
+{
+"authors":"Alexander R. Block and Hemanta K. Maji and Hai H. Nguyen",
+"id":"2018/395",
+"title":"Embedding Multiplications at a Linear Rate and its Applications"
+},
+{
+"authors":"Ryo Kikuchi and Dai Ikarashi and Takahiro Matsuda and Koki Hamada and Koji Chida",
+"id":"2018/387",
+"title":"Efficient Bit-Decomposition and Modulus-Conversion Protocols with an Honest Majority"
+},
+{
+"authors":"Sarvar Patel and Giuseppe Persiano and Mariana Raykova and Kevin Yeo",
+"id":"2018/373",
+"title":"PanORAMa: Oblivious RAM with Logarithmic Overhead"
+},
+{
+"authors":"Alexander R. Block and Divya Gupta and Hemanta K. Maji and Hai H. Nguyen",
+"id":"2018/372",
+"title":"Secure Computation using Leaky Correlations (Asymptotically Optimal Constructions)"
+},
+{
+"authors":"T-H. Hubert Chan and Kartik Nayak and Elaine Shi",
+"id":"2018/364",
+"title":"Perfectly Secure Oblivious Parallel RAM"
+},
+{
+"authors":"Ariel Hamlin and Rafail Ostrovsky and Mor Weiss and Daniel Wichs",
+"id":"2018/363",
+"title":"Private Anonymous Data Access"
+},
+{
+"authors":"Christina-Angeliki Toli and Abdelrahaman Aly and Bart Preneel",
+"id":"2018/359",
+"title":"Privacy-Preserving Multibiometric Authentication in Cloud with Untrusted Database Providers"
+},
+{
+"authors":"Stanislaw Jarecki and Boyang Wei",
+"id":"2018/347",
+"title":"3PC ORAM with Low Latency, Low Bandwidth, and Fast Batch Retrieval"
+},
+{
+"authors":"Andrea Cerulli and Emiliano De Cristofaro and Claudio Soriente",
+"id":"2018/344",
+"title":"Nothing Refreshes Like a RePSI: Reactive Private Set Intersection"
+},
+{
+"authors":"Zvika Brakerski",
+"id":"2018/338",
+"title":"Quantum FHE (Almost) As Secure as Classical"
+},
+{
+"authors":"Sanaz Taheri Boshrooyeh and Alptekin K\u00fcp\u00e7\u00fc and \u00d6znur \u00d6zkasap",
+"id":"2018/323",
+"title":"PPAD: Privacy Preserving Group-Based ADvertising in Online Social Networks"
+},
+{
+"authors":"Sergiu Carpov and Thibaud Tortech",
+"id":"2018/314",
+"title":"Secure top most significant genome variants search: iDASH 2017 competition"
+},
+{
+"authors":"Anat Paskin-Cherniavsky",
+"id":"2018/308",
+"title":"On Perfectly Secure 2PC in the OT-hybrid model"
+},
+{
+"authors":"Pascal Mainini and Rolf Haenni",
+"id":"2018/300",
+"title":"Outsourcing Modular Exponentiation in Cryptographic Web Applications"
+},
+{
+"authors":"Matteo Campanelli and Rosario Gennaro",
+"id":"2018/297",
+"title":"Fine-Grained Secure Computation"
+},
+{
+"authors":"Phillipp Schoppmann and Adri\u00e0 Gasc\u00f3n and Borja Balle",
+"id":"2018/289",
+"title":"Private Nearest Neighbors Classification in Federated Databases"
+},
+{
+"authors":"Gizem S. \u00c7etin and Berk Sunar",
+"id":"2018/283",
+"title":"Homomorphic Rank Sort Using Surrogate Polynomials"
+},
+{
+"authors":"Michael Raskin and Mark Simkin",
+"id":"2018/268",
+"title":"Oblivious RAM with Small Storage Overhead"
+},
+{
+"authors":"Andrey Kim and Yongsoo Song and Miran Kim and Keewoo Lee and Jung Hee Cheon",
+"id":"2018/254",
+"title":"Logistic Regression Model Training based on the Approximate Homomorphic Encryption"
+},
+{
+"authors":"Xiong Fan and Qiang Tang",
+"id":"2018/250",
+"title":"Making Public Key Functional Encryption Function Private, Distributively"
+},
+{
+"authors":"Shai Halevi and Victor Shoup",
+"id":"2018/244",
+"title":"Faster Homomorphic Linear Transformations in HElib"
+},
+{
+"authors":"Brett Hemenway Falk and Daniel Noble and Rafail Ostrovsky",
+"id":"2018/238",
+"title":"Private Set Intersection with Linear Communication from General Assumptions"
+},
+{
+"authors":"Hagen Sparka and Florian Tschorsch and Bj\u00f6rn Scheuermann",
+"id":"2018/234",
+"title":"P2KMV: A Privacy-preserving Counting Sketch for Efficient and Accurate Set Intersection Cardinality Estimations"
+},
+{
+"authors":"Charlotte Bonte and Frederik Vercauteren",
+"id":"2018/233",
+"title":"Privacy-Preserving Logistic Regression Training"
+},
+{
+"authors":"Masahiro Yagisawa",
+"id":"2018/232",
+"title":"Improved fully homomorphic public-key encryption with small ciphertext size"
+},
+{
+"authors":"Wei-Kai Lin and Elaine Shi and Tiancheng Xie",
+"id":"2018/227",
+"title":"Can We Overcome the $n \\log n$ Barrier for Oblivious Sorting?"
+},
+{
+"authors":"Shruti Tople and Yaoqi Jia and Prateek Saxena",
+"id":"2018/220",
+"title":"PRO-ORAM: Constant Latency Read-Only Oblivious RAM"
+},
+{
+"authors":"S. Dov Gordon and Samuel Ranellucci and Xiao Wang",
+"id":"2018/216",
+"title":"Secure Computation with Low Communication from Cross-checking"
+},
+{
+"authors":"Carmit Hazay and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez",
+"id":"2018/208",
+"title":"Efficient MPC from Syndrome Decoding (or: Honey, I Shrunk the Keys)"
+},
+{
+"authors":"Edouard Dufour Sans and Romain Gay and David Pointcheval",
+"id":"2018/206",
+"title":"Reading in the Dark: Classifying Encrypted Digits with Functional Encryption"
+},
+{
+"authors":"Jack L.H. Crawford and Craig Gentry and Shai Halevi and Daniel Platt and Victor Shoup",
+"id":"2018/202",
+"title":"Doing Real Work with FHE: The Case of Logistic Regression"
+},
+{
+"authors":"Jim Basilakis and Bahman Javadi",
+"id":"2018/201",
+"title":"Efficient Parallel Binary Operations on Homomorphic Encrypted Real Numbers"
+},
+{
+"authors":"Yongjun Zhao and Sherman S. M. Chow",
+"id":"2018/184",
+"title":"Can you find the one for me? Privacy-Preserving Matchmaking via Threshold PSI"
+},
+{
+"authors":"Christoph Dobraunig and Maria Eichlseder and Lorenzo Grassi and Virginie Lallemand and Gregor Leander and Eik List and Florian Mendel and Christian Rechberger",
+"id":"2018/181",
+"title":"Rasta: A cipher with low ANDdepth and few ANDs per bit"
+},
+{
+"authors":"Sanjam Garg and Peihan Miao and Akshayaram Srinivasan",
+"id":"2018/180",
+"title":"Two-Round Multiparty Secure Computation Minimizing Public Key Operations"
+},
+{
+"authors":"Ken Goss and Wei Jiang",
+"id":"2018/179",
+"title":"Efficient and Constant-Rounds Secure Comparison through Dynamic Groups and Asymmetric Computations"
+},
+{
+"authors":"Sanjam Garg and Susumu Kiyoshima and Omkant Pandey",
+"id":"2018/156",
+"title":"A New Approach to Black-Box Concurrent Secure Computation"
+},
+{
+"authors":"Jung Hee Cheon and Kyoohyung Han and Andrey Kim and Miran Kim and Yongsoo Song",
+"id":"2018/153",
+"title":"Bootstrapping for Approximate Homomorphic Encryption"
+},
+{
+"authors":"Sanjam Garg and Akshayaram Srinivasan",
+"id":"2018/151",
+"title":"Adaptively Secure Garbling with Near Optimal Online Complexity"
+},
+{
+"authors":"Amos Beimel and Eyal Kushilevitz and Pnina Nissim",
+"id":"2018/148",
+"title":"The Complexity of Multiparty PSM Protocols and Related Models"
+},
+{
+"authors":"Benny Applebaum and Thomas Holenstein and Manoj Mishra and Ofer Shayevitz",
+"id":"2018/144",
+"title":"The Communication Complexity of Private Simultaneous Messages, Revisited"
+},
+{
+"authors":"Baiyu Li and Daniele Micciancio",
+"id":"2018/141",
+"title":"Symbolic security of garbled circuits"
+},
+{
+"authors":"Wen-jie Lu and Jun Sakuma",
+"id":"2018/139",
+"title":"Faster Multiplication Triplet Generation from Homomorphic Encryption for Practical Privacy-Preserving Machine Learning under a Narrow Bandwidth"
+},
+{
+"authors":"Benny Pinkas and Thomas Schneider and Christian Weinert and Udi Wieder",
+"id":"2018/120",
+"title":"Efficient Circuit-based PSI via Cuckoo Hashing"
+},
+{
+"authors":"Shai Halevi and Yuriy Polyakov and Victor Shoup",
+"id":"2018/117",
+"title":"An Improved RNS Variant of the BFV Homomorphic Encryption Scheme"
+},
+{
+"authors":"Michele Ciampi and Claudio Orlandi",
+"id":"2018/105",
+"title":"Combining Private Set-Intersection with Secure Two-Party Computation"
+},
+{
+"authors":"Mustafa A. Mustafa and Sara Cleemput and Abdelrahaman Aly and Aysajan Abidin",
+"id":"2018/101",
+"title":"A Secure and Privacy-preserving Protocol for Smart Metering Operational Data Collection"
+},
+{
+"authors":"Masahiro Yagisawa",
+"id":"2018/088",
+"title":"Fully homomorphic public-key encryption with small ciphertext size"
+},
+{
+"authors":"Miran Kim and Yongsoo Song and Shuang Wang and Yuhou Xia and Xiaoqian Jiang",
+"id":"2018/074",
+"title":"Secure Logistic Regression based on Homomorphic Encryption"
+},
+{
+"authors":"Chiraag Juvekar and Vinod Vaikuntanathan and Anantha Chandrakasan",
+"id":"2018/073",
+"title":"GAZELLE: A Low Latency Framework for Secure Neural Network Inference"
+},
+{
+"authors":"Hao Chen and Kyoohyung Han",
+"id":"2018/067",
+"title":"Homomorphic Lower Digits Removal and Improved FHE Bootstrapping"
+},
+{
+"authors":"Chaya Ganesh and Yashvanth Kondi and Arpita Patra and Pratik Sarkar",
+"id":"2018/043",
+"title":"Efficient Adaptively Secure Zero-knowledge from Garbled Circuits"
+},
+{
+"authors":"Yuval Ishai and Manika Mittal and Rafail Ostrovsky",
+"id":"2018/038",
+"title":"On the Message Complexity of Secure Multiparty Computation"
+},
+{
+"authors":"Peter Scholl",
+"id":"2018/036",
+"title":"Extending Oblivious Transfer with Low Communication via Key-Homomorphic PRFs"
+},
+{
+"authors":"Martin Strand",
+"id":"2018/027",
+"title":"A verifiable shuffle for the GSW cryptosystem"
+},
+{
+"authors":"Christopher Carr and Anamaria Costache and Gareth T. Davies and Kristian Gj\u00f8steen and Martin Strand",
+"id":"2018/026",
+"title":"Zero-Knowledge Proof of Decryption for FHE Ciphertexts"
+},
+{
+"authors":"Xiao Wang and Dov Gordon and Jonathan Katz",
+"id":"2018/005",
+"title":"Simple and Efficient Two-Server ORAM"
+},
+{
+"authors":"Moni Naor and Benny Pinkas and Eyal Ronen",
+"id":"2018/003",
+"title":"How to (not) share a password: Privacy preserving protocols for finding heavy hitters with adversarial behavior"
+},
+{
+"authors":"Cagdas Calik and Meltem Sonmez Turan and Rene Peralta",
+"id":"2018/002",
+"title":"The Multiplicative Complexity of 6-variable Boolean Functions"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai and Huijia Lin and Stefano Tessaro",
+"id":"2017/1248",
+"title":"Foundations of Homomorphic Secret Sharing"
+},
+{
+"authors":"Thang Hoang and Ceyhun D. Ozkaptan and Gabriel Hackebeil and Attila A. Yavuz",
+"id":"2017/1238",
+"title":"Efficient Oblivious Data Structures for Database Services on the Cloud"
+},
+{
+"authors":"Christina Boura and Ilaria Chillotti and Nicolas Gama and Dimitar Jetchev and Stanislav Peceny and Alexander Petric",
+"id":"2017/1234",
+"title":"High-Precision Privacy-Preserving Real-Valued Function Evaluation"
+},
+{
+"authors":"Marcel Keller and Valerio Pastro and Dragos Rotaru",
+"id":"2017/1230",
+"title":"Overdrive: Making SPDZ Great Again"
+},
+{
+"authors":"Yehuda Lindell and Avishay Yanai",
+"id":"2017/1225",
+"title":"Fast Garbling of Circuits over 3-Valued Logic"
+},
+{
+"authors":"Oana Stan and Mohamed-Haykel Zayani and Renaud Sirdey and Amira Ben Hamida and Alessandro Ferreira Leite and Mallek Mziou-Sallami",
+"id":"2017/1212",
+"title":"A New Crypto-Classifier Service for Energy Efficiency in Smart Cities"
+},
+{
+"authors":"Eleftheria Makri and Dragos Rotaru and Nigel P. Smart and Frederik Vercauteren",
+"id":"2017/1190",
+"title":"PICS: Private Image Classification with SVM"
+},
+{
+"authors":"Aner Ben-Efraim",
+"id":"2017/1186",
+"title":"On Multiparty Garbling of Arithmetic Circuits"
+},
+{
+"authors":"Merav Parter and Eylon Yogev",
+"id":"2017/1182",
+"title":"Distributed Computing Made Secure: A New Cycle Cover Theorem"
+},
+{
+"authors":"M. Sadegh Riazi and Christian Weinert and Oleksandr Tkachenko and Ebrahim M. Songhori and Thomas Schneider and Farinaz Koushanfar",
+"id":"2017/1164",
+"title":"Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications"
+},
+{
+"authors":"Thang Hoang and Attila A. Yavuz and Betul F. Durak and Jorge Guajardo",
+"id":"2017/1158",
+"title":"Oblivious Dynamic Searchable Encryption via Distributed PIR and ORAM"
+},
+{
+"authors":"Ebrahim M. Songhori and M. Sadegh Riazi and Siam U. Hussain and Ahmad-Reza Sadeghi and Farinaz Koushanfar",
+"id":"2017/1157",
+"title":"ARM2GC: Simple and Efficient Garbled Circuit Framework by Skipping"
+},
+{
+"authors":"Sanjam Garg and Akshayaram Srinivasan",
+"id":"2017/1156",
+"title":"Two-Round Multiparty Secure Computation from Minimal Assumptions"
+},
+{
+"authors":"Vladimir Kolesnikov and Mike Rosulek and Ni Trieu",
+"id":"2017/1150",
+"title":"SWiM: Secure Wildcard Pattern Matching From OT Extension"
+},
+{
+"authors":"Sebastian Angel and Hao Chen and Kim Laine and Srinath Setty",
+"id":"2017/1142",
+"title":"PIR with compressed queries and amortized computation"
+},
+{
+"authors":"Fabrice Benhamouda and Huijia Lin",
+"id":"2017/1125",
+"title":"k-Round MPC from k-Round OT via Garbled Interactive Circuits"
+},
+{
+"authors":"Florian Bourse and Michele Minelli and Matthias Minihold and Pascal Paillier",
+"id":"2017/1114",
+"title":"Fast Homomorphic Evaluation of Deep Discretized Neural Networks"
+},
+{
+"authors":"Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma and Shardul Tripathi",
+"id":"2017/1109",
+"title":"EzPC: Programmable, Efficient, and Scalable Secure Two-Party Computation"
+},
+{
+"authors":"Nishanth Chandran and Wutichai Chongchitmate and Rafail Ostrovsky and Ivan Visconti",
+"id":"2017/1092",
+"title":"Universally Composable Secure Two and Multi-party Computation in the Corruptible Tamper-Proof Hardware Token Model"
+},
+{
+"authors":"Arka Rai Choudhuri and Matthew Green and Abhishek Jain and Gabriel Kaptchuk and Ian Miers",
+"id":"2017/1091",
+"title":"Fairness in an Unfair World: Fair Multiparty Computation from public Bulletin Boards"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Vipul Goyal and Abhishek Jain and Yael Tauman Kalai and Dakshita Khurana and Amit Sahai",
+"id":"2017/1088",
+"title":"Promise Zero Knowledge and its Applications to Round Optimal MPC"
+},
+{
+"authors":"Satrajit Ghosh and Tobias Nilges",
+"id":"2017/1064",
+"title":"An Algebraic Approach to Maliciously Secure Private Set Intersection"
+},
+{
+"authors":"Shai Halevi and Carmit Hazay and Antigoni Polychroniadou and Muthuramakrishnan Venkitasubramaniam",
+"id":"2017/1056",
+"title":"Round-Optimal Secure Multi-Party Computation"
+},
+{
+"authors":"Sean Bowe and Ariel Gabizon and Ian Miers",
+"id":"2017/1050",
+"title":"Scalable Multi-party Computation for zk-SNARK Parameters in the Random Beacon Model"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Ji Luo and Sabine Oechsner and Peter Scholl and Mark Simkin",
+"id":"2017/1041",
+"title":"Compact Zero-Knowledge Proofs of Small Hamming Weight"
+},
+{
+"authors":"T-H. Hubert Chan and Kai-Min Chung and Bruce Maggs and Elaine Shi",
+"id":"2017/1033",
+"title":"Foundations of Differentially Oblivious Algorithms"
+},
+{
+"authors":"Giulia Traverso and Denise Demirel and Johannes Buchmann",
+"id":"2017/1032",
+"title":"Performing Computations on Hierarchically Shared Secrets"
+},
+{
+"authors":"Sahar Mazloom and S. Dov Gordon",
+"id":"2017/1016",
+"title":"Differentially Private Access Patterns in Secure Computation"
+},
+{
+"authors":"Wouter Castryck and Ilia Iliashenko and Frederik Vercauteren",
+"id":"2017/1013",
+"title":"Homomorphic SIMMD Operations: Single Instruction Much More Data"
+},
+{
+"authors":"Ashish Choudhury and Arpita Patra and Divya Ravi",
+"id":"2017/1006",
+"title":"Round and Communication Efficient Unconditionally-secure MPC with $t < n/3$ in Partially Synchronous Network"
+},
+{
+"authors":"Sanjam Garg and Akshayaram Srinivasan",
+"id":"2017/1004",
+"title":"Garbled Protocols and Two-Round MPC from Bilinear Maps"
+},
+{
+"authors":"Varsha Dani and Valerie King and Mahnush Movahedi and Jared Saia and Mahdi Zamani",
+"id":"2017/1003",
+"title":"Secure Multi-Party Computation in Large Networks"
+},
+{
+"authors":"Guillaume Bonnoron and L\u00e9o Ducas and Max Fillinger",
+"id":"2017/996",
+"title":"Large FHE gates from Tensored Homomorphic Accumulator"
+},
+{
+"authors":"Marcel Keller and Avishay Yanai",
+"id":"2017/981",
+"title":"Efficient Maliciously Secure Multiparty Computation for RAM"
+},
+{
+"authors":"Irene Giacomelli and Somesh Jha and Marc Joye and C. David Page and Kyonghwan Yoon",
+"id":"2017/979",
+"title":"Privacy-Preserving Ridge Regression over Distributed Data from LHE"
+},
+{
+"authors":"Mike Rosulek",
+"id":"2017/976",
+"title":"Improvements for Gate-Hiding Garbled Circuits"
+},
+{
+"authors":"Abdelrahaman Aly and Sara Cleemput",
+"id":"2017/971",
+"title":"An Improved Protocol for Securely Solving the Shortest Path Problem and its Application to Combinatorial Auctions"
+},
+{
+"authors":"Sarvar Patel and Giuseppe Persiano and Kevin Yeo",
+"id":"2017/964",
+"title":"Recursive ORAMs with Practical Constructions"
+},
+{
+"authors":"Nico D\u00f6ttling and Nils Fleischhacker and Johannes Krupp and Dominique Schr\u00f6der",
+"id":"2017/958",
+"title":"Two-Message, Oblivious Evaluation of Cryptographic Functionalities"
+},
+{
+"authors":"Dan Boneh and Rosario Gennaro and Steven Goldfeder and Aayush Jain and Sam Kim and Peter M. R. Rasmussen and Amit Sahai",
+"id":"2017/956",
+"title":"Threshold Cryptosystems From Threshold Fully Homomorphic Encryption"
+},
+{
+"authors":"Charlotte Bonte and Eleftheria Makri and Amin Ardeshirdavani and Jaak Simm and Yves Moreau and Frederik Vercauteren",
+"id":"2017/955",
+"title":"Privacy-Preserving Genome-Wide Association Study is Practical"
+},
+{
+"authors":"Yehuda Lindell and Tal Rabin",
+"id":"2017/952",
+"title":"Secure Two-Party Computation with Fairness -- A Necessary Design Principle"
+},
+{
+"authors":"Carmit Hazay and Yuval Ishai and Muthuramakrishnan Venkitasubramaniam",
+"id":"2017/947",
+"title":"Actively Secure Garbled Circuits with Constant Communication Overhead in the Plain Model"
+},
+{
+"authors":"Prabhanjan Ananth and Abhishek Jain",
+"id":"2017/942",
+"title":"On Secure Two-Party Computation in Three Rounds"
+},
+{
+"authors":"Zahra Jafargholi and Alessandra Scafuro and Daniel Wichs",
+"id":"2017/934",
+"title":"Adaptively Indistinguishable Garbled Circuits"
+},
+{
+"authors":"T-H. Hubert Chan and Yue Guo and Wei-Kai Lin and Elaine Shi",
+"id":"2017/924",
+"title":"Oblivious Hashing Revisited, and Applications to Asymptotically Efficient ORAM and OPRAM"
+},
+{
+"authors":"Long Chen and Zhenfeng Zhang and Xueqing Wang",
+"id":"2017/923",
+"title":"Batched Multi-hop Multi-key FHE from ring-LWE with Compact Ciphertext Extension"
+},
+{
+"authors":"Michele Ciampi and Rafail Ostrovsky and Luisa Siniscalchi and Ivan Visconti",
+"id":"2017/920",
+"title":"Round-Optimal Secure Two-Party Computation from Trapdoor Permutations"
+},
+{
+"authors":"T-H. Hubert Chan and Yue Guo and Wei-Kai Lin and Elaine Shi",
+"id":"2017/914",
+"title":"Cache-Oblivious and Data-Oblivious Sorting and Applications"
+},
+{
+"authors":"Paul Laird",
+"id":"2017/912",
+"title":"On Two Round Rerunnable MPC Protocols"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Claudio Orlandi and Mark Simkin",
+"id":"2017/908",
+"title":"Yet Another Compiler for Active Security or: Efficient MPC Over Arbitrary Rings"
+},
+{
+"authors":"Shruti Tople and Hung Dang and Prateek Saxena and Ee-Chien Chang",
+"id":"2017/885",
+"title":"PermuteRam: Optimizing Oblivious Computation for Efficiency"
+},
+{
+"authors":"Shai Halevi and Yuval Ishai and Abhishek Jain and Ilan Komargodski and Amit Sahai and Eylon Yogev",
+"id":"2017/871",
+"title":"Non-Interactive Multiparty Computation without Correlated Randomness"
+},
+{
+"authors":"Aner Ben-Efraim and Yehuda Lindell and Eran Omri",
+"id":"2017/862",
+"title":"Efficient Scalable Constant-Round MPC via Garbled Circuits"
+},
+{
+"authors":"T-H. Hubert Chan and Kai-Min Chung and Elaine Shi",
+"id":"2017/861",
+"title":"On the Depth of Oblivious Parallel RAM"
+},
+{
+"authors":"Jing Li and Licheng Wang",
+"id":"2017/839",
+"title":"Noiseless Fully Homomorphic Encryption"
+},
+{
+"authors":"Jack Doerner and abhi shelat",
+"id":"2017/827",
+"title":"Scaling ORAM for Secure Computation"
+},
+{
+"authors":"Jos\u00e9 Bacelar Almeida and Manuel Barbosa and Gilles Barthe and Fran\u00e7ois Dupressoir and Benjamin Gr\u00e9goire and Vincent Laporte and Vitor Pereira",
+"id":"2017/821",
+"title":"A Fast and Verified Software Stack for Secure Function Evaluation"
+},
+{
+"authors":"Thang Hoang and Ceyhun D. Ozkaptan and Attila A. Yavuz and Jorge Guajardo and Tam Nguyen",
+"id":"2017/819",
+"title":"S3ORAM: A Computation-Efficient and Constant Client Bandwidth Blowup ORAM with Shamir Secret Sharing"
+},
+{
+"authors":"Yehuda Lindell and Ariel Nof",
+"id":"2017/816",
+"title":"A Framework for Constructing Fast MPC over Arithmetic Circuits with Malicious Adversaries and an Honest-Majority"
+},
+{
+"authors":"Hao Chen and Kim Laine and Rachel Player and Yuhou Xia",
+"id":"2017/809",
+"title":"High-Precision Arithmetic in Homomorphic Encryption"
+},
+{
+"authors":"Vladimir Kolesnikov and Naor Matania and Benny Pinkas and Mike Rosulek and Ni Trieu",
+"id":"2017/799",
+"title":"Practical Multi-party Private Set Intersection from Symmetric-Key Techniques"
+},
+{
+"authors":"Daniel G\u00fcnther and \u00c1gnes Kiss and Thomas Schneider",
+"id":"2017/798",
+"title":"More Efficient Universal Circuit Constructions"
+},
+{
+"authors":"Nico D\u007f\u00f6ttling and Satrajit Ghosh and Jesper Buus Nielsen and Tobias Nilges and Roberto Tri filetti",
+"id":"2017/790",
+"title":"TinyOLE: Efficient Actively Secure Two-Party Computation from Oblivious Linear Function Evaluation"
+},
+{
+"authors":"Nikolaos Alexopoulos and Aggelos Kiayias and Riivo Talviste and Thomas Zacharias",
+"id":"2017/778",
+"title":"MCMix: Anonymous Messaging via Secure Multiparty Computation"
+},
+{
+"authors":"Gilad Asharov and T-H. Hubert Chan and Kartik Nayak and Rafael Pass and Ling Ren and Elaine Shi",
+"id":"2017/772",
+"title":"Oblivious Computation with Data Locality"
+},
+{
+"authors":"Angelo Massimo Perillo and Emiliano De Cristofaro",
+"id":"2017/770",
+"title":"PAPEETE: Private, Authorized, and Fast Personal Genomic Testing"
+},
+{
+"authors":"Peter Rindal and Mike Rosulek",
+"id":"2017/769",
+"title":"Malicious-Secure Private Set Intersection via Dual Execution"
+},
+{
+"authors":"Masahiro Yagisawa",
+"id":"2017/763",
+"title":"Improved Fully Homomorphic Encryption without Bootstrapping"
+},
+{
+"authors":"Melissa Chase and Ran Gilad-Bachrach and Kim Laine and Kristin Lauter and Peter Rindal",
+"id":"2017/762",
+"title":"Private Collaborative Neural Network Learning"
+},
+{
+"authors":"Mihaela Ion and Ben Kreuter and Erhan Nergiz and Sarvar Patel and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung",
+"id":"2017/738",
+"title":"Private Intersection-Sum Protocol with Applications to Attributing Aggregate Ad Conversions"
+},
+{
+"authors":"Hanyu Quan and Boyang Wang and Iraklis Leontiadis and Ming Li and Yuqing Zhang",
+"id":"2017/737",
+"title":"SecReach: Secure Reachability Computation on Encrypted Location Check-in Data"
+},
+{
+"authors":"TanPing ZHOU and XiaoYuan YANG and LongFei LIU and Wei ZHANG and YiTao DING",
+"id":"2017/735",
+"title":"Faster Bootstrapping with Multiple Addends"
+},
+{
+"authors":"Marc Joye",
+"id":"2017/732",
+"title":"Privacy-Preserving Ridge Regression Without Garbled Circuits"
+},
+{
+"authors":"Ahmad Akmal Aminuddin Mohd Kamal and Keiichi Iwamura",
+"id":"2017/718",
+"title":"Conditionally Secure Secrecy Computation using Secret Sharing Scheme for n<2k-1 (full paper)"
+},
+{
+"authors":"Le Trieu Phong and Yoshinori Aono and Takuya Hayashi and Lihua Wang and Shiho Moriai",
+"id":"2017/715",
+"title":"Privacy-Preserving Deep Learning via Additively Homomorphic Encryption"
+},
+{
+"authors":"Irene Giacomelli and Somesh Jha and C. David Page and Kyonghwan Yoon",
+"id":"2017/707",
+"title":"Privacy-Preserving Ridge Regression on Distributed Data"
+},
+{
+"authors":"Deepesh Data and Manoj Prabhakaran",
+"id":"2017/692",
+"title":"Towards Characterizing Securely Computable Two-Party Randomized Functions"
+},
+{
+"authors":"Jessica Covington and Megan Golbek and Mike Rosulek",
+"id":"2017/687",
+"title":"Impossibility of Secure Multi-Party Products in Non-Abelian Groups"
+},
+{
+"authors":"Ruiyu Zhu and Yan Huang",
+"id":"2017/683",
+"title":"Efficient Privacy-Preserving Edit Distance and Beyond"
+},
+{
+"authors":"Amanda Cristina Davi Resende and Diego F. Aranha",
+"id":"2017/677",
+"title":"Unbalanced Approximate Private Set Intersection"
+},
+{
+"authors":"\u00c1gnes Kiss and Jian Liu and Thomas Schneider and N. Asokan and Benny Pinkas",
+"id":"2017/670",
+"title":"Private Set Intersection for Unequal Set Sizes with Mobile Applications"
+},
+{
+"authors":"Michael Raskin",
+"id":"2017/665",
+"title":"Lower bounds on communication for multiparty computation of multiple \u00abAND\u00bb instances with secret sharing"
+},
+{
+"authors":"Morten Dahl and Valerio Pastro and Mathieu Poumeyrol",
+"id":"2017/643",
+"title":"Private Data Aggregation on a Budget"
+},
+{
+"authors":"Benny Applebaum and Ivan Damg\u00e5rd and Yuval Ishai and Michael Nielsen and Lior Zichron",
+"id":"2017/617",
+"title":"Secure Arithmetic Computation with Constant Computational Overhead"
+},
+{
+"authors":"Johannes Buchmann and Niklas B\u00fcscher and Florian G\u00f6pfert and Stefan Katzenbeisser and Juliane Kr\u00e4mer and Daniele Micciancio and Sander Siim and Christine van Vredendaal and Michael Walter",
+"id":"2017/606",
+"title":"Creating Cryptographic Challenges Using Multi-Party Computation: The LWE Challenge"
+},
+{
+"authors":"Sean Bowe and Ariel Gabizon and Matthew D. Green",
+"id":"2017/602",
+"title":"A multi-party protocol for constructing the public parameters of the Pinocchio zk-SNARK"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Dakshita Khurana and Amit Sahai",
+"id":"2017/597",
+"title":"Round Optimal Concurrent MPC via Strong Simulation"
+},
+{
+"authors":"Linru Zhang and Gongxian Zeng and Yuechen Chen and Siu-Ming Yiu and Nairen Cao and Zheli Liu",
+"id":"2017/590",
+"title":"Constant bandwidth ORAM with small block size using PIR operations"
+},
+{
+"authors":"Daniel S. Roche and Adam J. Aviv and Seung Geol Choi and Travis Mayberry",
+"id":"2017/586",
+"title":"Deterministic, Stash-Free Write-Only ORAM"
+},
+{
+"authors":"Angela J\u00e4schke and Frederik Armknecht",
+"id":"2017/582",
+"title":"(Finite) Field Work: Choosing the Best Encoding of Numbers for FHE Computation"
+},
+{
+"authors":"Yihua Zhang and Marina Blanton and Fattaneh Bayatbabolghani",
+"id":"2017/569",
+"title":"Enforcing Input Correctness via Certification in Garbled Circuit Evaluation"
+},
+{
+"authors":"Ran Canetti and Justin Holmgren and Silas Richelson",
+"id":"2017/568",
+"title":"Towards Doubly Efficient Private Information Retrieval"
+},
+{
+"authors":"Elette Boyle and Yuval Ishai and Rafael Pass and Mary Wootters",
+"id":"2017/567",
+"title":"Can We Access a Database Both Locally and Privately?"
+},
+{
+"authors":"Yashvanth Kondi and Arpita Patra",
+"id":"2017/561",
+"title":"Privacy-Free Garbled Circuits for Formulas: Size Zero and Information-Theoretic"
+},
+{
+"authors":"Fabrice Benhamouda and Hugo Krawczyk and Tal Rabin",
+"id":"2017/555",
+"title":"Robust Non-Interactive Multiparty Computation Against Constant-Size Collusion"
+},
+{
+"authors":"Yehuda Lindell",
+"id":"2017/552",
+"title":"Fast Secure Two-Party ECDSA Signing"
+},
+{
+"authors":"Tore Frederiksen and Benny Pinkas and Avishay Yanay",
+"id":"2017/550",
+"title":"Committed MPC - Maliciously Secure Multiparty Computation from Homomorphic Commitments"
+},
+{
+"authors":"Yark\u0131n Dor\u00f6z and Jeffrey Hoffstein and Jill Pipher and Joseph H. Silverman and Berk Sunar and William Whyte and Zhenfei Zhang",
+"id":"2017/548",
+"title":"Fully Homomorphic Encryption from the Finite Field Isomorphism Problem"
+},
+{
+"authors":"Ignacio Cascudo and Ivan Damg\u00e5rd and Oriol Farr\u00e0s and Samuel Ranellucci",
+"id":"2017/545",
+"title":"Resource-efficient OT combiners with active security"
+},
+{
+"authors":"Juan Garay and Yuval Ishai and Rafail Ostrovsky and Vassilis Zikas",
+"id":"2017/520",
+"title":"The Price of Low Communication in Secure Multi-Party Computation"
+},
+{
+"authors":"Nishanth Chandran and Juan Garay and Payman Mohassel and Satyanarayana Vusirikala",
+"id":"2017/519",
+"title":"Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party Case"
+},
+{
+"authors":"Bita Darvish Rouhani and M. Sadegh Riazi and Farinaz Koushanfar",
+"id":"2017/502",
+"title":"DeepSecure: Scalable Provably-Secure Deep Learning"
+},
+{
+"authors":"Dragos Rotaru and Nigel P. Smart and Martijn Stam",
+"id":"2017/496",
+"title":"Modes of Operation Suitable for Computing on Encrypted Data"
+},
+{
+"authors":"Marcel Keller and Dragos Rotaru and Nigel P. Smart and Tim Wood",
+"id":"2017/492",
+"title":"Reducing Communication Channels in MPC"
+},
+{
+"authors":"Chongwon Cho and Nico D\u00f6ttling and Sanjam Garg and Divya Gupta and Peihan Miao and Antigoni Polychroniadou",
+"id":"2017/491",
+"title":"Laconic Oblivious Transfer and its Applications"
+},
+{
+"authors":"Sergiu Carpov and Pascal Aubry and Renaud Sirdey",
+"id":"2017/483",
+"title":"A multi-start heuristic for multiplicative depth minimization of boolean circuits"
+},
+{
+"authors":"Cengiz Orencik and Erkay Savas and Mahmoud Alewiwi",
+"id":"2017/472",
+"title":"A Unified Framework for Secure Search Over Encrypted Cloud Data"
+},
+{
+"authors":"Jacob Alperin-Sheriff and Jintai Ding and Albrecht Petzoldt and Daniel Smith Tone",
+"id":"2017/471",
+"title":"Total Break of the Fully Homomorphic Multivariate Encryption Scheme of 2017/458: Decryption can not be of low degree"
+},
+{
+"authors":"Mike Rosulek and Morgan Shirley",
+"id":"2017/464",
+"title":"On the Structure of Unconditional UC Hybrid Protocols"
+},
+{
+"authors":"Matthew Tamayo-Rios and Jean-Charles Faug\u00e8re and Ludovic Perret and Peng Hui How and Robin Zhang",
+"id":"2017/458",
+"title":"Fully Homomorphic Encryption Using Multivariate Polynomials"
+},
+{
+"authors":"Jian Liu and Mika Juuti and Yao Lu and N. Asokan",
+"id":"2017/452",
+"title":"Oblivious Neural Network Predictions via MiniONN transformations"
+},
+{
+"authors":"Elena Pagnin and Aikaterini Mitrokotsa",
+"id":"2017/450",
+"title":"Privacy-preserving biometric authentication: challenges and directions"
+},
+{
+"authors":"Abdelrahaman Aly and Mathieu Van Vyve",
+"id":"2017/439",
+"title":"Practically Efficient Secure Single-Commodity Multi-Market Auctions"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Sanjam Garg and Yuval Ishai and Amit Sahai and Akshay Wadia",
+"id":"2017/433",
+"title":"Two-Message Witness Indistinguishability and Secure Computation in the Plain Model from New Assumptions"
+},
+{
+"authors":"Ilaria Chillotti and Nicolas Gama and Mariya Georgieva and Malika Izabach\u00e8ne",
+"id":"2017/430",
+"title":"Improving TFHE: faster packed homomorphic operations and efficient circuit bootstrapping"
+},
+{
+"authors":"Osman Bicer and Muhammed Ali Bingol and Mehmet Sabir Kiraz and Albert Levi",
+"id":"2017/415",
+"title":"Towards Practical PFE: An Efficient 2-Party Private Function Evaluation Protocol Based on Half Gates"
+},
+{
+"authors":"Satrajit Ghosh and Jesper Buus Nielsen and Tobias Nilges",
+"id":"2017/409",
+"title":"Maliciously Secure Oblivious Linear Function Evaluation with Constant Overhead"
+},
+{
+"authors":"Peter Rindal and Roberto Trifiletti",
+"id":"2017/407",
+"title":"SplitCommit: Implementing and Analyzing Homomorphic UC Commitments"
+},
+{
+"authors":"Prabhanjan Ananth and Arka Rai Choudhuri and Abhishek Jain",
+"id":"2017/402",
+"title":"A New Approach to Round-Optimal Secure Multiparty Computation"
+},
+{
+"authors":"Payman Mohassel and Yupeng Zhang",
+"id":"2017/396",
+"title":"SecureML: A System for Scalable Privacy-Preserving Machine Learning"
+},
+{
+"authors":"Gilad Asharov and Daniel Demmler and Michael Schapira and Thomas Schneider and Gil Segev and Scott Shenker and Michael Zohner",
+"id":"2017/393",
+"title":"Privacy-Preserving Interdomain Routing at Internet Scale"
+},
+{
+"authors":"S\u00e9bastien Canard and Sergiu Carpov and Donald Nokam Kuate and Renaud Sirdey",
+"id":"2017/392",
+"title":"Running compression algorithms in the encrypted domain: a case-study on the homomorphic execution of RLE"
+},
+{
+"authors":"Chen Xu and Jingwei Chen and Wenyuan Wu and Yong Feng",
+"id":"2017/387",
+"title":"Homomorphically Encrypted Arithmetic Operations over the Integer Ring"
+},
+{
+"authors":"Zvika Brakerski and Shai Halevi and Antigoni Polychroniadou",
+"id":"2017/386",
+"title":"Four Round Secure Computation without Setup"
+},
+{
+"authors":"Benny Applebaum",
+"id":"2017/385",
+"title":"Garbled Circuits as Randomized Encodings of Functions: a Primer"
+},
+{
+"authors":"Marcel Keller and Emmanuela Orsini and Dragos Rotaru and Peter Scholl and Eduardo Soria-Vazquez and Srinivas Vivek",
+"id":"2017/378",
+"title":"Faster Secure Multi-Party Computation of AES and DES Using Lookup Tables"
+},
+{
+"authors":"Stefan W\u00fcller and Ulrike Meyer and Susanne Wetzel",
+"id":"2017/377",
+"title":"Privacy-Preserving Multi-Party Bartering Secure Against Active Adversaries"
+},
+{
+"authors":"Yihua Zhang and Marina Blanton and Fattaneh Bayatbabolghani ",
+"id":"2017/369",
+"title":"Enforcing Input Correctness via Certification in Garbled Circuit Evaluation"
+},
+{
+"authors":"Vladimir Kolesnikov and Jesper Buus Nielsen and Mike Rosulek and Ni Trieu and Roberto Trifiletti",
+"id":"2017/344",
+"title":"DUPLO: Unifying Cut-and-Choose for Garbled Circuits"
+},
+{
+"authors":"Irene Giacomelli and Somesh Jha and C. David Page",
+"id":"2017/335",
+"title":"Privacy-Preserving Linear Regression on Distributed Data"
+},
+{
+"authors":"Charlotte Bonte and Carl Bootland and Joppe W. Bos and Wouter Castryck and Ilia Iliashenko and Frederik Vercauteren",
+"id":"2017/333",
+"title":"Faster Homomorphic Function Evaluation using Non-Integral Base Encoding"
+},
+{
+"authors":"Matteo Maffei and Giulio Malavolta and Manuel Reinert and Dominique Schr\u00f6der",
+"id":"2017/329",
+"title":"Maliciously Secure Multi-Client ORAM"
+},
+{
+"authors":"Manuel Barbosa and Dario Catalano and Dario Fiore",
+"id":"2017/326",
+"title":"Labeled Homomorphic Encryption: Scalable and Privacy-Preserving Processing of Outsourced Data"
+},
+{
+"authors":"Hao Chen and Kim Laine and Peter Rindal",
+"id":"2017/299",
+"title":"Fast Private Set Intersection from Homomorphic Encryption"
+},
+{
+"authors":"Jung Hee Cheon and Miran Kim and Yongsoo Song",
+"id":"2017/294",
+"title":"Secure Searching of Biomarkers Using Hybrid Homomorphic Encryption Scheme"
+},
+{
+"authors":"Okan Seker and Thomas Eisenbarth and Rainer Steinwandt",
+"id":"2017/269",
+"title":"Extending Glitch-Free Multiparty Protocols to Resist Fault Injection Attacks"
+},
+{
+"authors":"Peter Scholl and Nigel P. Smart and Tim Wood",
+"id":"2017/262",
+"title":"When It\u0092s All Just Too Much: Outsourcing MPC-Preprocessing"
+},
+{
+"authors":"Aayush Jain and Peter M. R. Rasmussen and Amit Sahai",
+"id":"2017/257",
+"title":"Threshold Fully Homomorphic Encryption"
+},
+{
+"authors":"Jo\u00e3o S\u00e1 Sousa and C\u00e9dric Lefebvre and Zhicong Huang and Jean Louis Raisaro and Carlos Aguilar and Marc-Olivier Killijian and Jean-Pierre Hubaux",
+"id":"2017/228",
+"title":"Efficient and Secure Outsourcing of Genomic Data Storage"
+},
+{
+"authors":"Ruiyu Zhu and Yan Huang",
+"id":"2017/226",
+"title":"Faster LEGO-based Secure Computation without Homomorphic Commitments"
+},
+{
+"authors":"Carmit Hazay and Peter Scholl and Eduardo Soria-Vazquez",
+"id":"2017/214",
+"title":"Low Cost Constant Round MPC Combining BMR and Oblivious-Transfer"
+},
+{
+"authors":"Gizem S Cetin and Hao Chen and Kim Laine and Kristin Lauter and Peter Rindal and Yuhou Xia",
+"id":"2017/207",
+"title":"Private Queries on Encrypted Genomic Data"
+},
+{
+"authors":"Masahiro Yagisawa",
+"id":"2017/198",
+"title":"FHE with Recursive Ciphertext "
+},
+{
+"authors":"Jonathan Katz and Samuel Ranellucci and Xiao Wang",
+"id":"2017/189",
+"title":"Authenticated Garbling and Efficient Maliciously Secure Multi-Party Computation"
+},
+{
+"authors":"Kristian Gj\u00f8steen and Martin Strand",
+"id":"2017/166",
+"title":"A roadmap to fully homomorphic elections: Stronger security, better verifiability"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai",
+"id":"2017/150",
+"title":"Group-Based Secure Computation: Optimizing Rounds, Communication, and Computation"
+},
+{
+"authors":"Olivier Sanders and Cristina Onete and Pierre-Alain Fouque",
+"id":"2017/148",
+"title":"Pattern Matching on Encrypted Streams: Applications to DPI and searches on genomic data"
+},
+{
+"authors":"Amos Beimel and Yuval Ishai and Eyal Kushilevitz",
+"id":"2017/147",
+"title":"Ad Hoc PSM Protocols: Secure Computation Without Coordination"
+},
+{
+"authors":"Gilad Asharov and Shai Halevi and Yehuda Lindell and Tal Rabin",
+"id":"2017/144",
+"title":"Privacy-Preserving Search of Similar Patients in Genomic Data"
+},
+{
+"authors":"Xiong Fan and Chaya Ganesh and Vladimir Kolesnikov",
+"id":"2017/135",
+"title":"Hashing Garbled Circuits for Free"
+},
+{
+"authors":"Payman Mohassel and Mike Rosulek",
+"id":"2017/125",
+"title":"Non-Interactive Secure 2PC in the Offline/Online and Batch Settings"
+},
+{
+"authors":"Sanjam Garg and Susumu Kiyoshima and Omkant Pandey",
+"id":"2017/124",
+"title":"On the Exact Round Complexity of Self-Composable Two-Party Computation"
+},
+{
+"authors":"Vanesa Daza and Nikolaos Makriyannis",
+"id":"2017/098",
+"title":"Designing Fully Secure Protocols for Secure Two-Party Computation of Constant-Domain Functions"
+},
+{
+"authors":"Jung Hee Cheon and Kyoohyung Han and Duhyeong Kim",
+"id":"2017/079",
+"title":"Faster Bootstrapping of FHE over the Integers"
+},
+{
+"authors":"Carmen Kempka and Ryo Kikuchi and Koutarou Suzuki",
+"id":"2017/072",
+"title":"How to Circumvent the Two-Ciphertext Lower Bound for Linear Garbling Schemes"
+},
+{
+"authors":"Seiko Arita and Sari Handa",
+"id":"2017/066",
+"title":"Subring Homomorphic Encryption"
+},
+{
+"authors":"Daniel Benarroch and Zvika Brakerski and Tancr\u00e8de Lepoint",
+"id":"2017/065",
+"title":"FHE Over the Integers: Decomposed and Batched in the Post-Quantum Regime"
+},
+{
+"authors":"Arash Afshar and Payman Mohassel and Mike Rosulek",
+"id":"2017/062",
+"title":"Efficient Maliciously Secure Two Party Computation for Mixed Programs"
+},
+{
+"authors":"Herv\u00e9 Chabanne and Amaury de Wargny and Jonathan Milgram and Constance Morel and Emmanuel Prouff",
+"id":"2017/035",
+"title":"Privacy-Preserving Classification on Deep Neural Network"
+},
+{
+"authors":"Yongge Wang and Qutaibah m. Malluhi",
+"id":"2017/041",
+"title":"Reducing Garbled Circuit Size While Preserving Circuit Gate Privacy"
+},
+{
+"authors":"Jonathan Katz and Samuel Ranellucci and Xiao Wang",
+"id":"2017/030",
+"title":"Authenticated Garbling and Communication-Efficient, Constant-Round, Secure Two-Party Computation"
+},
+{
+"authors":"Carmit Hazay and Muthuramakrishnan Venkitasubramaniam",
+"id":"2017/027",
+"title":"Scalable Multi-Party Private Set-Intersection"
+},
+{
+"authors":"Tommaso Gagliardoni and Nikolaos P. Karvelas and Stefan Katzenbeisser",
+"id":"2017/014",
+"title":"ORAMs in a Quantum World"
+},
+{
+"authors":"Wutichai Chongchitmate and Rafail Ostrovsky",
+"id":"2017/010",
+"title":"Circuit-Private Multi-Key FHE"
+},
+{
+"authors":"Joshua Gancher and Adam Groce and Alex Ledger",
+"id":"2017/008",
+"title":"Externally Verifiable Oblivious RAM"
+},
+{
+"authors":"Sungwook Kim and Jinsu Kim and Jae Hong Seo",
+"id":"2017/004",
+"title":"A New Approach for Practical Function-Private Inner Product Encryption"
+},
+{
+"authors":"P.T. Breuer and J.P. Bowen",
+"id":"2016/1191",
+"title":"On the Security of Practical and Complete Homomorphic Encrypted Computation"
+},
+{
+"authors":"Sumit Kumar Debnath and Ratna Dutta",
+"id":"2016/1180",
+"title":"How to Meet Big Data When Private Set Intersection Realizes Constatnt Communication Complexity"
+},
+{
+"authors":"Sumit Chakraborty",
+"id":"2016/1167",
+"title":"Mobile Commerce: Secure Multi-party Computation & Financial Cryptography"
+},
+{
+"authors":"Ilaria Chillotti and Nicolas Gama and Louis Goubin ",
+"id":"2016/1164",
+"title":"Attacking FHE-based applications by software fault injections"
+},
+{
+"authors":"Wen-jie Lu and Shohei Kawasaki and Jun Sakuma",
+"id":"2016/1163",
+"title":"Using Fully Homomorphic Encryption for Statistical Analysis of Categorical, Ordinal and Numerical Data"
+},
+{
+"authors":"Frank Wang and Catherine Yun and Shafi Goldwasser and Vinod Vaikuntanathan and Matei Zaharia",
+"id":"2016/1148",
+"title":"Splinter: Practical Private Queries on Public Data"
+},
+{
+"authors":"Kartik Nayak and Jonathan Katz",
+"id":"2016/1141",
+"title":"An Oblivious Parallel RAM with $O(\\log^2 N)$ Parallel Runtime Blowup"
+},
+{
+"authors":"Qiang Tang and Husen Wang",
+"id":"2016/1134",
+"title":"Privacy-preserving Hybrid Recommender System"
+},
+{
+"authors":"Joppe Bos and Wouter Castryck and Ilia Iliashenko and Frederik Vercauteren",
+"id":"2016/1117",
+"title":"Privacy-friendly Forecasting for the Smart Grid using Homomorphic Encryption and the Group Method of Data Handling"
+},
+{
+"authors":"T-H. Hubert Chan and Elaine Shi",
+"id":"2016/1084",
+"title":"Circuit OPRAM: A (Somewhat) Tight Oblivious Parallel RAM"
+},
+{
+"authors":"N. P. Karvelas and Andreas Peter and Stefan Katzenbeisser",
+"id":"2016/1077",
+"title":"Blurry-ORAM: A Multi-Client Oblivious Storage Architecture"
+},
+{
+"authors":"Jesper Buus Nielsen and Thomas Schneider and Roberto Trifiletti",
+"id":"2016/1069",
+"title":"Constant Round Maliciously Secure 2PC with Function-independent Preprocessing using LEGO"
+},
+{
+"authors":"Aner Ben-Efraim and Yehuda Lindell and Eran Omri",
+"id":"2016/1066",
+"title":"Optimizing Semi-Honest Secure Multiparty Computation for the Internet"
+},
+{
+"authors":"Raad Bahmani and Manuel Barbosa and Ferdinand Brasser and Bernardo Portela and Ahmad-Reza Sadeghi and Guillaume Scerri and Bogdan Warinschi",
+"id":"2016/1057",
+"title":"Secure Multiparty Computation from SGX"
+},
+{
+"authors":"Stanislaw Jarecki",
+"id":"2016/1032",
+"title":"Efficient Covert Two-Party Computation"
+},
+{
+"authors":"Koji Nuida",
+"id":"2016/1040",
+"title":"Semi-Honest Secure Multiparty Computation Can Be Insecure with Use of Even Almost Uniformly Random Number Generators"
+},
+{
+"authors":"Brandon Broadnax and Nico D\u00f6ttling and Gunnar Hartung and J\u00f6rn M\u00fcller-Quade and Matthias Nagel",
+"id":"2016/1043",
+"title":"Concurrently Composable Security With Shielded Super-polynomial Simulators"
+},
+{
+"authors":"Anamaria Costache and Nigel P. Smart and Srinivas Vivek",
+"id":"2016/1019",
+"title":"Faster Homomorphic Evaluation of Discrete Fourier Transforms"
+},
+{
+"authors":"Tobias Nilges",
+"id":"2016/1009",
+"title":"Efficient Resettably Secure Two-Party Computation"
+},
+{
+"authors":"Ran Cohen and Chris Peikert",
+"id":"2016/976",
+"title":"On Adaptively Secure Multiparty Computation with a Short CRS"
+},
+{
+"authors":"Marshall Ball and Tal Malkin and Mike Rosulek",
+"id":"2016/969",
+"title":"Garbling Gadgets for Boolean and Arithmetic Circuits"
+},
+{
+"authors":"Geoffroy Couteau",
+"id":"2016/951",
+"title":"Revisiting Covert Multiparty Computation"
+},
+{
+"authors":"Foteini Baldimtsi and Dimitrios Papadopoulos and Stavros Papadopoulos and Alessandra Scafuro and Nikos Triandopoulos",
+"id":"2016/948",
+"title":"Secure Computation in Online Social Networks"
+},
+{
+"authors":"Jun Furukawa and Yehuda Lindell and Ariel Nof and Or Weinstein",
+"id":"2016/944",
+"title":"High-Throughput Secure Three-Party Computation for Malicious Adversaries and an Honest Majority"
+},
+{
+"authors":"Peeter Laud and Alisa Pankova",
+"id":"2016/942",
+"title":"Optimizing Secure Computation Programs with Private Conditionals"
+},
+{
+"authors":"Arpita Patra and Pratik Sarkar and Ajith Suresh",
+"id":"2016/940",
+"title":"Fast Actively Secure OT Extension for Short Secrets"
+},
+{
+"authors":"Michele Orr\u00f9 and Emmanuela Orsini and Peter Scholl",
+"id":"2016/933",
+"title":"Actively Secure 1-out-of-N OT Extension with Application to Private Set Intersection"
+},
+{
+"authors":"Benny Pinkas and Thomas Schneider and Michael Zohner",
+"id":"2016/930",
+"title":"Scalable Private Set Intersection Based on OT Extension"
+},
+{
+"authors":"Peihan Miao",
+"id":"2016/907",
+"title":"Cut-and-Choose for Garbled RAM"
+},
+{
+"authors":"Jinsheng Zhang and Qiumao Ma and Wensheng Zhang and Daji Qiao",
+"id":"2016/882",
+"title":"MSKT-ORAM: A Constant Bandwidth ORAM without Homomorphic Encryption"
+},
+{
+"authors":"Nikolaj Volgushev and Malte Schwarzkopf and Andrei Lapets and Mayank Varia and Azer Bestavros",
+"id":"2016/883",
+"title":"DEMO: Integrating MPC in Big Data Workflows"
+},
+{
+"authors":"Ilaria Chillotti and Nicolas Gama and Mariya Georgieva and Malika Izabach\u00e8ne",
+"id":"2016/870",
+"title":"Faster Fully Homomorphic Encryption: Bootstrapping in less than 0.1 Seconds"
+},
+{
+"authors":"Jack Doerner and David Evans and abhi shelat",
+"id":"2016/861",
+"title":"Secure Stable Matching at Scale"
+},
+{
+"authors":"Kartik Nayak and Ling Ren and Ittai Abraham and Benny Pinkas",
+"id":"2016/849",
+"title":"An Oblivious RAM with Sub-logarithmic Bandwidth Blowup"
+},
+{
+"authors":"Sanjam Garg and Divya Gupta and Peihan Miao and Omkant Pandey",
+"id":"2016/815",
+"title":"Secure Multiparty RAM Computation in Constant Rounds"
+}
+]
